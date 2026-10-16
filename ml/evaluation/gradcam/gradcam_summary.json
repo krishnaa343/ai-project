@@ -1,0 +1,105 @@
+{
+  "model_name": "MobileNetV2",
+  "target_layer": "out_relu",
+  "sample_count": 8,
+  "mean_latency_ms": 215.04,
+  "device": "Host CPU",
+  "demonstration_samples": [
+    {
+      "sample_id": 1,
+      "image_path": "ml/data/raw/plantvillage/Apple___Apple_scab/0a769a71-052a-4f19-a4d8-b0f0cb75541c___FREC_Scab 3165.JPG",
+      "actual_class": "Apple___Apple_scab",
+      "predicted_class": "Apple___Apple_scab",
+      "confidence_pct": 98.76,
+      "correct": true,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_01_Apple_scab_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_01_Apple_scab_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_01_Apple_scab_overlay.png"
+    },
+    {
+      "sample_id": 2,
+      "image_path": "ml/data/raw/plantvillage/Apple___healthy/92425071-59b8-4490-bea5-91830169a5a1___RS_HL 7469.JPG",
+      "actual_class": "Apple___healthy",
+      "predicted_class": "Apple___healthy",
+      "confidence_pct": 98.99,
+      "correct": true,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_02_healthy_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_02_healthy_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_02_healthy_overlay.png"
+    },
+    {
+      "sample_id": 3,
+      "image_path": "ml/data/raw/plantvillage/Corn_(maize)___Common_rust_/RS_Rust 2351.JPG",
+      "actual_class": "Corn_(maize)___Common_rust_",
+      "predicted_class": "Corn_(maize)___Common_rust_",
+      "confidence_pct": 100.0,
+      "correct": true,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_03_Common_rust__orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_03_Common_rust__heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_03_Common_rust__overlay.png"
+    },
+    {
+      "sample_id": 4,
+      "image_path": "ml/data/raw/plantvillage/Potato___Early_blight/c8dedd98-c5d7-4ef4-b4f4-70d0bae0e178___RS_Early.B 7128.JPG",
+      "actual_class": "Potato___Early_blight",
+      "predicted_class": "Potato___Early_blight",
+      "confidence_pct": 100.0,
+      "correct": true,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_04_Early_blight_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_04_Early_blight_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_04_Early_blight_overlay.png"
+    },
+    {
+      "sample_id": 5,
+      "image_path": "ml/data/raw/plantvillage/Tomato___healthy/d984f436-1fde-4221-9563-82f55a42b545___RS_HL 0217.JPG",
+      "actual_class": "Tomato___healthy",
+      "predicted_class": "Tomato___healthy",
+      "confidence_pct": 99.99,
+      "correct": true,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_05_healthy_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_05_healthy_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_05_healthy_overlay.png"
+    },
+    {
+      "sample_id": 6,
+      "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/f4c2eabd-d29b-44ac-bda7-46d4b07fe799___RS_Late.B 4852.JPG",
+      "actual_class": "Tomato___Late_blight",
+      "predicted_class": "Tomato___Early_blight",
+      "confidence_pct": 74.89,
+      "correct": false,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_06_Late_blight_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_06_Late_blight_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_06_Late_blight_overlay.png"
+    },
+    {
+      "sample_id": 7,
+      "image_path": "ml/data/raw/plantvillage/Tomato___Early_blight/d59a0542-4c2a-441b-8566-e1f741e917d4___RS_Erly.B 6437.JPG",
+      "actual_class": "Tomato___Early_blight",
+      "predicted_class": "Tomato___Early_blight",
+      "confidence_pct": 53.02,
+      "correct": false,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_07_Early_blight_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_07_Early_blight_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_07_Early_blight_overlay.png"
+    },
+    {
+      "sample_id": 8,
+      "image_path": "ml/data/raw/plantvillage/Potato___Late_blight/93d91b96-e024-477c-9b76-796e3f1614d4___RS_LB 3297.JPG",
+      "actual_class": "Potato___Late_blight",
+      "predicted_class": "Tomato___Late_blight",
+      "confidence_pct": 98.43,
+      "correct": false,
+      "target_layer": "out_relu",
+      "original_file": "ml\\evaluation\\gradcam\\original\\sample_08_Late_blight_orig.png",
+      "heatmap_file": "ml\\evaluation\\gradcam\\heatmaps\\sample_08_Late_blight_heatmap.png",
+      "overlay_file": "ml\\evaluation\\gradcam\\overlays\\sample_08_Late_blight_overlay.png"
+    }
+  ]
+}

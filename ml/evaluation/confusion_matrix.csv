@@ -1,0 +1,14 @@
+,Apple___Apple_scab,Apple___Black_rot,Apple___healthy,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___healthy,Potato___Early_blight,Potato___Late_blight,Potato___healthy,Tomato___Bacterial_spot,Tomato___Early_blight,Tomato___Late_blight,Tomato___healthy
+Apple___Apple_scab,63,0,0,0,0,0,0,0,0,0,0,0,0
+Apple___Black_rot,0,62,0,0,0,0,0,0,0,0,0,0,0
+Apple___healthy,1,0,161,0,0,0,0,0,2,0,0,0,0
+Corn_(maize)___Common_rust_,0,0,0,119,0,0,0,0,0,0,0,0,0
+Corn_(maize)___Northern_Leaf_Blight,0,0,0,0,96,2,0,0,0,0,0,0,0
+Corn_(maize)___healthy,0,0,0,0,0,116,0,0,0,0,0,0,0
+Potato___Early_blight,0,0,0,0,0,0,100,0,0,0,0,0,0
+Potato___Late_blight,0,0,0,0,0,0,0,91,5,0,2,2,0
+Potato___healthy,0,0,0,0,0,0,0,0,15,0,0,0,0
+Tomato___Bacterial_spot,0,0,0,0,0,0,0,0,0,211,1,1,0
+Tomato___Early_blight,0,0,0,0,0,0,0,0,0,8,87,4,1
+Tomato___Late_blight,1,0,1,0,0,0,0,6,0,1,15,166,0
+Tomato___healthy,0,1,0,0,0,0,0,0,0,0,0,0,158

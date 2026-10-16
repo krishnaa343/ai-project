@@ -1,0 +1,363 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "description": "Structured disease information for supported model classes",
+    "project": "AI-Based Intelligent Crop Disease Detection Framework for Agriculture",
+    "disclaimer": "This information is for general guidance only. Always consult a qualified agricultural expert for field-level diagnosis and treatment decisions.",
+    "supported_classes": 13
+  },
+  "entries": {
+    "Apple___Apple_scab": {
+      "class_name": "Apple___Apple_scab",
+      "crop": "Apple",
+      "display_name": "Apple Scab",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Apple scab is a common fungal disease caused by Venturia inaequalis. It primarily affects leaves, fruit, and young shoots, creating dark, scabby lesions that reduce fruit quality and overall tree vigor.",
+      "symptoms": [
+        "Olive-green to dark brown velvety spots on leaves",
+        "Lesions may have a yellow halo around the scab",
+        "Infected fruit develop rough, corky, scabby patches",
+        "Severely infected leaves may turn yellow and fall prematurely",
+        "Young shoots may become distorted or stunted"
+      ],
+      "management": [
+        "Apply appropriate fungicides during bud break and early leaf growth stages",
+        "Remove and destroy fallen infected leaves to reduce overwintering spores",
+        "Avoid overhead irrigation that keeps foliage wet for extended periods",
+        "Prune trees to improve air circulation"
+      ],
+      "prevention": [
+        "Select scab-resistant apple varieties where possible",
+        "Monitor weather conditions during spring bloom for high infection risk periods",
+        "Maintain proper tree spacing to encourage air circulation",
+        "Apply preventive fungicide programs during critical risk windows"
+      ],
+      "severity_note": "Scab can significantly reduce marketable fruit yield if left unmanaged.",
+      "disclaimer": "Consult a local agricultural expert or extension service for variety-specific and region-specific fungicide recommendations."
+    },
+
+    "Apple___Black_rot": {
+      "class_name": "Apple___Black_rot",
+      "crop": "Apple",
+      "display_name": "Apple Black Rot",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Apple black rot is a fungal disease caused by Botryosphaeria obtusa. It affects the fruit, leaves, and bark of apple trees, causing distinctive rotting of fruit and leaf lesions known as frog-eye leaf spot.",
+      "symptoms": [
+        "Circular tan to brown lesions on leaves with a purple border (frog-eye leaf spot)",
+        "Dark, sunken cankers on branches and bark",
+        "Fruit develop brown rotting areas that may eventually turn entirely black and shriveled",
+        "Infected fruit may remain attached to the tree as mummified remains",
+        "Leaf lesions can cause early defoliation"
+      ],
+      "management": [
+        "Remove mummified fruit from trees and orchard floor",
+        "Prune out dead, diseased, or cankered wood and dispose of properly",
+        "Apply approved fungicides during the growing season as part of a spray program",
+        "Maintain general tree health through proper nutrition and irrigation"
+      ],
+      "prevention": [
+        "Practice good orchard sanitation by removing debris",
+        "Avoid wounding bark as wounds provide infection sites",
+        "Manage fire blight infections which can serve as entry points",
+        "Monitor trees regularly during the growing season"
+      ],
+      "severity_note": "Can cause complete loss of marketable fruit in severely infected orchards.",
+      "disclaimer": "Consult a local agricultural extension service for region-specific management recommendations."
+    },
+
+    "Apple___healthy": {
+      "class_name": "Apple___healthy",
+      "crop": "Apple",
+      "display_name": "Healthy Apple Leaf",
+      "type": "healthy",
+      "is_healthy": true,
+      "description": "The model did not identify disease patterns commonly associated with the trained disease classes in this image. The leaf appears to match characteristics of a healthy apple leaf based on the trained data.",
+      "symptoms": [],
+      "management": [
+        "Continue regular monitoring of the orchard for early signs of disease",
+        "Maintain balanced fertilization and irrigation practices",
+        "Keep pruning equipment clean to avoid spreading pathogens"
+      ],
+      "prevention": [
+        "Maintain proper tree spacing and pruning for good air circulation",
+        "Monitor for early signs of scab, black rot, and other common apple diseases",
+        "Follow an integrated pest and disease management program"
+      ],
+      "severity_note": null,
+      "disclaimer": "A model prediction of healthy does not replace a qualified field inspection."
+    },
+
+    "Corn_(maize)___Common_rust_": {
+      "class_name": "Corn_(maize)___Common_rust_",
+      "crop": "Corn (Maize)",
+      "display_name": "Corn Common Rust",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Corn common rust is caused by the fungus Puccinia sorghi. It is one of the most widespread foliar diseases of maize, producing rust-colored pustules on both leaf surfaces, which can reduce photosynthesis and yield under heavy infection.",
+      "symptoms": [
+        "Small, circular to elongated brick-red to cinnamon-brown pustules on both leaf surfaces",
+        "Pustules break open to release rust-colored powdery spores",
+        "Heavily infected leaves may turn yellow and die prematurely",
+        "Pustules can also appear on husks and sheaths in severe cases"
+      ],
+      "management": [
+        "Apply appropriate foliar fungicides when rust is detected early, particularly on susceptible varieties",
+        "Monitor fields regularly starting from the vegetative stages",
+        "Ensure adequate plant spacing to reduce humidity within the canopy"
+      ],
+      "prevention": [
+        "Plant rust-resistant maize hybrids where available",
+        "Avoid planting in areas with a history of severe rust outbreaks without resistant varieties",
+        "Scout fields early in the season to catch infections before they spread"
+      ],
+      "severity_note": "Yield losses are generally low in resistant varieties but can be significant in susceptible ones under favorable conditions.",
+      "disclaimer": "Consult local agricultural extension services for hybrid selection and fungicide recommendations in your region."
+    },
+
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+      "crop": "Corn (Maize)",
+      "display_name": "Northern Leaf Blight",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Northern leaf blight (NLB), caused by Exserohilum turcicum, is a significant foliar disease of maize. It produces large, cigar-shaped lesions that can coalesce and cause extensive leaf death, affecting grain fill when upper leaves are lost.",
+      "symptoms": [
+        "Long, elliptical (cigar-shaped) grayish-green to tan lesions on leaves",
+        "Lesions typically 2.5 to 15 cm long",
+        "In humid conditions, dark gray-green spore masses appear on lesion surfaces",
+        "Multiple lesions can merge, causing large areas of leaf tissue to die",
+        "Lesions generally start on lower leaves and progress upward"
+      ],
+      "management": [
+        "Apply fungicides at the first sign of infection, particularly if the disease appears before tasseling",
+        "Incorporate crop residue after harvest to reduce inoculum",
+        "Rotate with non-host crops such as soybean or small grains"
+      ],
+      "prevention": [
+        "Select NLB-resistant or tolerant maize hybrids",
+        "Practice crop rotation to reduce residue-borne inoculum",
+        "Avoid dense planting which increases canopy humidity"
+      ],
+      "severity_note": "Losses are greatest when infection occurs before silking. Late-season infections have less impact on yield.",
+      "disclaimer": "Fungicide efficacy varies by product and timing. Consult local extension recommendations."
+    },
+
+    "Corn_(maize)___healthy": {
+      "class_name": "Corn_(maize)___healthy",
+      "crop": "Corn (Maize)",
+      "display_name": "Healthy Corn Leaf",
+      "type": "healthy",
+      "is_healthy": true,
+      "description": "The model did not identify disease patterns commonly associated with the trained disease classes in this image. The leaf appears to match characteristics of a healthy maize leaf based on the trained data.",
+      "symptoms": [],
+      "management": [
+        "Continue regular scouting for rust, blight, and other common maize diseases",
+        "Maintain appropriate fertilization schedules",
+        "Monitor soil moisture to support plant health"
+      ],
+      "prevention": [
+        "Use certified disease-resistant maize seed",
+        "Practice crop rotation to minimize soil-borne pathogen buildup",
+        "Scout fields regularly for early disease detection"
+      ],
+      "severity_note": null,
+      "disclaimer": "A model prediction of healthy does not replace a qualified field inspection."
+    },
+
+    "Potato___Early_blight": {
+      "class_name": "Potato___Early_blight",
+      "crop": "Potato",
+      "display_name": "Potato Early Blight",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Potato early blight is caused by the fungus Alternaria solani. Despite its name, it often affects older, stressed plants later in the season. It produces distinctive concentric ring lesions on leaves and can also affect stems and tubers.",
+      "symptoms": [
+        "Dark brown to black lesions with concentric rings forming a target-like pattern",
+        "Lesions typically start on older, lower leaves",
+        "Yellow tissue (chlorosis) may surround the lesions",
+        "Severely affected leaves turn yellow and drop prematurely",
+        "Dark, sunken lesions may appear on the stem and tubers"
+      ],
+      "management": [
+        "Apply fungicides when disease first appears and repeat as required",
+        "Remove and destroy severely infected plant material",
+        "Avoid excessive nitrogen fertilization which can increase susceptibility",
+        "Ensure consistent irrigation to avoid plant stress"
+      ],
+      "prevention": [
+        "Use certified disease-free seed tubers",
+        "Rotate potato crops with non-host crops for at least two to three years",
+        "Select early-blight-tolerant varieties",
+        "Avoid wounding plants during cultivation"
+      ],
+      "severity_note": "Can cause significant defoliation and reduce tuber yield and quality if unmanaged.",
+      "disclaimer": "Consult local agricultural extension services for locally registered fungicide options."
+    },
+
+    "Potato___Late_blight": {
+      "class_name": "Potato___Late_blight",
+      "crop": "Potato",
+      "display_name": "Potato Late Blight",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Potato late blight is a destructive disease caused by the oomycete pathogen Phytophthora infestans. It is historically known as one of the most economically damaging crop diseases. Under favorable cool, wet conditions it can spread very rapidly and destroy an entire crop within days.",
+      "symptoms": [
+        "Water-soaked, irregular pale green lesions on leaves that quickly turn brown to black",
+        "White fluffy mold (sporangia) visible on the underside of lesions in humid conditions",
+        "Stems develop dark brown, water-soaked lesions",
+        "Infected tubers develop reddish-brown to purple discoloration beneath the skin",
+        "In wet weather, the entire plant canopy can collapse very rapidly"
+      ],
+      "management": [
+        "Apply protective fungicides before infection and curative fungicides at first sign of disease",
+        "Remove and destroy infected plant material promptly; do not compost",
+        "Avoid overhead irrigation particularly in the evening",
+        "Harvest tubers as soon as practically possible to reduce tuber infections"
+      ],
+      "prevention": [
+        "Plant certified disease-free seed tubers",
+        "Use late-blight-resistant potato varieties",
+        "Monitor weather forecasts for high-risk conditions (cool temperatures, high humidity)",
+        "Rotate with non-solanaceous crops for at least two years"
+      ],
+      "severity_note": "Late blight can destroy a crop extremely rapidly under favorable conditions. Early detection and immediate action are critical.",
+      "disclaimer": "Late blight management requires prompt, expert intervention. Contact your local agricultural extension immediately upon suspected infection."
+    },
+
+    "Potato___healthy": {
+      "class_name": "Potato___healthy",
+      "crop": "Potato",
+      "display_name": "Healthy Potato Leaf",
+      "type": "healthy",
+      "is_healthy": true,
+      "description": "The model did not identify disease patterns commonly associated with the trained disease classes in this image. The leaf appears to match characteristics of a healthy potato leaf based on the trained data.",
+      "symptoms": [],
+      "management": [
+        "Continue regular monitoring for early and late blight",
+        "Maintain consistent soil moisture and avoid plant stress",
+        "Scout for signs of disease particularly during cool, wet weather"
+      ],
+      "prevention": [
+        "Use certified disease-free seed tubers",
+        "Practice crop rotation with non-solanaceous crops",
+        "Monitor regularly to detect blight at the earliest stage possible"
+      ],
+      "severity_note": null,
+      "disclaimer": "A model prediction of healthy does not replace a qualified field inspection."
+    },
+
+    "Tomato___Bacterial_spot": {
+      "class_name": "Tomato___Bacterial_spot",
+      "crop": "Tomato",
+      "display_name": "Tomato Bacterial Spot",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Tomato bacterial spot is caused by Xanthomonas species (primarily X. vesicatoria and related species). It affects leaves, stems, and fruit, causing significant cosmetic damage to fruit and defoliation under severe infection.",
+      "symptoms": [
+        "Small, water-soaked spots on leaves that enlarge to dark brown, irregular lesions",
+        "Lesions often have a yellow halo surrounding them",
+        "Spots may have a greasy or water-soaked appearance initially",
+        "Severely infected leaves may turn yellow and fall, exposing fruit to sunscald",
+        "Fruit develop small, raised, rough, brown spots that may crack"
+      ],
+      "management": [
+        "Apply copper-based bactericides as a protective measure, especially during wet conditions",
+        "Remove and destroy heavily infected plant material",
+        "Avoid working in the field when plants are wet to prevent further spread",
+        "Provide adequate plant spacing to improve air circulation"
+      ],
+      "prevention": [
+        "Use certified disease-free seed and transplants",
+        "Apply copper bactericides preventively during periods of wet, warm weather",
+        "Avoid overhead irrigation where possible",
+        "Rotate tomatoes with non-solanaceous crops for two or more years"
+      ],
+      "severity_note": "Can cause extensive defoliation and fruit damage, particularly in warm humid conditions.",
+      "disclaimer": "Bacterial diseases can be difficult to manage once established. Early preventive action is more effective than curative treatment."
+    },
+
+    "Tomato___Early_blight": {
+      "class_name": "Tomato___Early_blight",
+      "crop": "Tomato",
+      "display_name": "Tomato Early Blight",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Tomato early blight is caused by Alternaria solani. It is a common fungal disease that typically affects mature or stressed plants, producing characteristic target-spot lesions on older lower leaves and progressing upward.",
+      "symptoms": [
+        "Dark brown lesions with concentric rings creating a bull's-eye or target appearance",
+        "Lesions surrounded by a yellow halo",
+        "Disease typically starts on older lower leaves and progresses upward",
+        "Affected leaves may turn yellow and drop prematurely",
+        "Dark, sunken lesions can also appear on stems and fruit near the stem end"
+      ],
+      "management": [
+        "Apply appropriate fungicides at the first sign of disease",
+        "Remove and dispose of infected lower leaves",
+        "Avoid excessive nitrogen fertilization",
+        "Mulch the soil surface to reduce soil splashing of spores onto lower leaves"
+      ],
+      "prevention": [
+        "Use certified disease-free transplants",
+        "Practice crop rotation for two to three years with non-solanaceous crops",
+        "Stake or cage plants to keep foliage off the soil",
+        "Water at the base of plants to keep foliage dry"
+      ],
+      "severity_note": "Severe defoliation can reduce fruit quality and yield if disease progresses unchecked.",
+      "disclaimer": "Consult local agricultural extension services for locally registered fungicide recommendations."
+    },
+
+    "Tomato___Late_blight": {
+      "class_name": "Tomato___Late_blight",
+      "crop": "Tomato",
+      "display_name": "Tomato Late Blight",
+      "type": "disease",
+      "is_healthy": false,
+      "description": "Tomato late blight is caused by Phytophthora infestans, the same oomycete pathogen responsible for potato late blight. It can destroy plants extremely rapidly under cool, moist conditions and represents one of the most serious threats to tomato crops.",
+      "symptoms": [
+        "Large, irregular, water-soaked, pale green to dark brown lesions on leaves",
+        "White mold (sporangia) visible on the underside of lesions under humid conditions",
+        "Stem lesions that are brown, water-soaked, and can cause the stem to collapse",
+        "Fruit develop large, firm, brown, greasy-looking lesions",
+        "The entire plant can rapidly collapse and die in severe cases"
+      ],
+      "management": [
+        "Apply preventive or curative fungicides immediately upon first signs of disease",
+        "Remove and destroy infected plants; do not leave debris in the field",
+        "Avoid overhead irrigation especially in the evening",
+        "Monitor neighboring fields and surrounding area for infection sources"
+      ],
+      "prevention": [
+        "Plant resistant or tolerant tomato varieties",
+        "Use certified disease-free transplants",
+        "Monitor weather conditions for periods of cool temperatures and high humidity",
+        "Rotate with non-solanaceous crops and avoid fields with a history of late blight"
+      ],
+      "severity_note": "Late blight can destroy a tomato crop within days under favorable conditions. Immediate expert consultation is strongly advised.",
+      "disclaimer": "Late blight is a notifiable disease in some regions. Contact your local agricultural extension or plant health authority immediately upon suspected detection."
+    },
+
+    "Tomato___healthy": {
+      "class_name": "Tomato___healthy",
+      "crop": "Tomato",
+      "display_name": "Healthy Tomato Leaf",
+      "type": "healthy",
+      "is_healthy": true,
+      "description": "The model did not identify disease patterns commonly associated with the trained disease classes in this image. The leaf appears to match characteristics of a healthy tomato leaf based on the trained data.",
+      "symptoms": [],
+      "management": [
+        "Continue regular monitoring for bacterial spot, early blight, and late blight",
+        "Water at the base of plants to keep foliage dry",
+        "Maintain proper staking or caging to improve air circulation"
+      ],
+      "prevention": [
+        "Use certified disease-free transplants and seeds",
+        "Practice crop rotation with non-solanaceous crops",
+        "Scout fields regularly particularly during warm, wet weather"
+      ],
+      "severity_note": null,
+      "disclaimer": "A model prediction of healthy does not replace a qualified field inspection."
+    }
+  }
+}

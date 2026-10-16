@@ -1,0 +1,255 @@
+/* =============================================================================
+   DiseaseInfoPanel — Disease Information Component
+   Project: AI-Based Intelligent Crop Disease Detection Framework
+   ============================================================================= */
+
+.disease-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  padding: var(--space-6);
+  border-radius: var(--radius-xl);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Left accent border */
+.disease-panel::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  border-radius: var(--radius-xl) 0 0 var(--radius-xl);
+}
+
+.disease-panel--diseased::before {
+  background: linear-gradient(180deg, var(--clr-warning), #ef4444);
+}
+
+.disease-panel--healthy::before {
+  background: linear-gradient(180deg, var(--clr-primary), var(--clr-primary-mid));
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+
+.disease-panel__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-4);
+}
+
+.disease-panel__tag {
+  display: inline-block;
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+  margin-bottom: var(--space-2);
+}
+
+.disease-panel__tag--disease {
+  background: var(--clr-warning-bg);
+  color: var(--clr-warning);
+}
+
+.disease-panel__tag--healthy {
+  background: var(--clr-primary-light);
+  color: var(--clr-primary-dark);
+}
+
+.disease-panel__title {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  font-weight: 800;
+  color: var(--text-primary, var(--clr-text));
+  margin: 0 0 var(--space-1) 0;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+.disease-panel__crop {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary, var(--clr-text-secondary));
+  margin: 0;
+}
+
+.disease-panel__crop-label {
+  font-weight: 600;
+}
+
+.disease-panel__healthy-icon,
+.disease-panel__disease-icon {
+  font-size: 2.5rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+/* ── Severity note ───────────────────────────────────────────────────────── */
+
+.disease-panel__severity {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-4);
+  background: var(--clr-warning-bg);
+  border: 1px solid #fcd34d;
+  border-radius: var(--radius-lg);
+  font-size: var(--font-size-sm);
+  color: #92400e;
+  line-height: 1.5;
+}
+
+.disease-panel__severity-icon {
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* ── Sections ────────────────────────────────────────────────────────────── */
+
+.disease-panel__section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--border-color, var(--clr-border));
+}
+
+.disease-panel__section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.disease-panel__section-title {
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--text-primary, var(--clr-text));
+  margin: 0;
+}
+
+.disease-panel__description {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary, var(--clr-text-secondary));
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ── Lists ───────────────────────────────────────────────────────────────── */
+
+.disease-panel__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.disease-panel__list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary, var(--clr-text-secondary));
+  line-height: 1.6;
+}
+
+.disease-panel__bullet {
+  color: var(--clr-primary);
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-size: 1rem;
+}
+
+/* ── Collapsible accordion ───────────────────────────────────────────────── */
+
+.disease-panel__accordion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  gap: var(--space-2);
+}
+
+.disease-panel__accordion:hover .disease-panel__section-title {
+  color: var(--clr-primary);
+}
+
+.disease-panel__accordion:focus-visible {
+  outline: 2px solid var(--clr-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+
+.disease-panel__chevron {
+  font-size: 1.2rem;
+  color: var(--text-secondary, var(--clr-text-secondary));
+  transition: transform var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.disease-panel__chevron--open {
+  transform: rotate(-180deg);
+}
+
+/* ── Unavailable state ───────────────────────────────────────────────────── */
+
+.disease-panel__unavailable {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary, var(--clr-text-secondary));
+  margin: 0;
+  font-style: italic;
+}
+
+/* ── Disclaimer ──────────────────────────────────────────────────────────── */
+
+.disease-panel__disclaimer {
+  padding: var(--space-3) var(--space-4);
+  background: var(--clr-info-bg, #e0f2fe);
+  border-left: 3px solid var(--clr-info, #0284c7);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  font-size: var(--font-size-xs);
+  color: #0369a1;
+  line-height: 1.6;
+}
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+
+@media (max-width: 480px) {
+  .disease-panel {
+    padding: var(--space-4);
+  }
+
+  .disease-panel__header {
+    flex-direction: column-reverse;
+  }
+
+  .disease-panel__healthy-icon,
+  .disease-panel__disease-icon {
+    font-size: 2rem;
+  }
+
+  .disease-panel__title {
+    font-size: 1.25rem;
+  }
+}
+
+/* ── Print ───────────────────────────────────────────────────────────────── */
+@media print {
+  .disease-panel__accordion {
+    pointer-events: none;
+  }
+
+  .disease-panel__list {
+    display: block !important;
+  }
+}

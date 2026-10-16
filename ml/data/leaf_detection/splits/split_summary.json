@@ -1,0 +1,9 @@
+{
+  "total_samples": 1292,
+  "leaf_samples": 646,
+  "non_leaf_samples": 646,
+  "train_samples": 904,
+  "val_samples": 192,
+  "test_samples": 196,
+  "seed": 42
+}

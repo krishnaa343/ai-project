@@ -1,0 +1,55 @@
+image_path,actual_class,actual_class_index,predicted_class,predicted_class_index,confidence,correct
+ml/data/raw/plantvillage/Tomato___Early_blight/4b8821ef-8364-4a04-9549-58d58ffe0411___RS_Erly.B 7704.JPG,Tomato___Early_blight,10,Tomato___Late_blight,11,0.896531,False
+ml/data/raw/plantvillage/Tomato___Early_blight/d59a0542-4c2a-441b-8566-e1f741e917d4___RS_Erly.B 6437.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.536328,False
+ml/data/raw/plantvillage/Tomato___Late_blight/f4c2eabd-d29b-44ac-bda7-46d4b07fe799___RS_Late.B 4852.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.746425,False
+ml/data/raw/plantvillage/Tomato___Late_blight/d70b86ba-e117-43d6-ad51-43c67d9a2483___RS_Late.B 6347.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.957132,False
+ml/data/raw/plantvillage/Potato___Late_blight/62d41420-8e32-47d2-9a37-698c07f7dc16___RS_LB 2543.JPG,Potato___Late_blight,7,Potato___healthy,8,0.899532,False
+ml/data/raw/plantvillage/Tomato___Late_blight/8c36f3d7-3aee-4341-8319-449e3f5e6f79___RS_Late.B 5596.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.489964,False
+ml/data/raw/plantvillage/Tomato___Late_blight/dd52a1b4-1d20-4417-96c9-48baac62f15b___RS_Late.B 5202.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.698852,False
+ml/data/raw/plantvillage/Tomato___Late_blight/9768e99b-26dd-4295-bac6-a374dc1360be___RS_Late.B 6569.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.852683,False
+ml/data/raw/plantvillage/Tomato___Early_blight/eb2537b2-d6fa-4c70-b919-f90bbe2c65f2___RS_Erly.B 7605.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.994902,False
+ml/data/raw/plantvillage/Tomato___Late_blight/2c2326e9-eb07-45c1-8296-116df4108c03___RS_Late.B 4834.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.536557,False
+ml/data/raw/plantvillage/Potato___Late_blight/a7dad20a-b0c0-408b-a961-17928319e17f___RS_LB 4645.JPG,Potato___Late_blight,7,Tomato___Early_blight,10,0.74325,False
+ml/data/raw/plantvillage/Potato___Late_blight/d9817cc3-ef03-41e5-8892-1fddd27b7bcc___RS_LB 4878.JPG,Potato___Late_blight,7,Potato___healthy,8,0.758048,False
+ml/data/raw/plantvillage/Tomato___Late_blight/1d6d043a-9df9-49ec-9b0f-e40a8e7f409f___RS_Late.B 5287.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.420833,False
+ml/data/raw/plantvillage/Potato___Late_blight/4215b9d5-c554-4249-80e1-aeaf2106e966___RS_LB 2977.JPG,Potato___Late_blight,7,Potato___healthy,8,0.746587,False
+ml/data/raw/plantvillage/Tomato___Early_blight/8f92a1b1-c99e-48b4-8cd2-d0bd09bc6a6b___RS_Erly.B 9479.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.541479,False
+ml/data/raw/plantvillage/Tomato___Late_blight/06913075-dad1-4047-b5a2-74fe680efa3b___RS_Late.B 6048.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.53517,False
+ml/data/raw/plantvillage/Tomato___Early_blight/1e503089-ae6a-4340-8c3c-f44cbaa6cf6f___RS_Erly.B 8264.JPG,Tomato___Early_blight,10,Tomato___Late_blight,11,0.580525,False
+ml/data/raw/plantvillage/Apple___healthy/7007d57a-a05a-41b5-a80f-9fe33debaf1a___RS_HL 7354.JPG,Apple___healthy,2,Potato___healthy,8,0.515876,False
+ml/data/raw/plantvillage/Tomato___Late_blight/69fff432-3c80-4202-8e8a-7fed08ec0baa___RS_Late.B 6825.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.724721,False
+ml/data/raw/plantvillage/Tomato___Late_blight/8b3de207-e6ff-4ac5-8480-f6230bd6b385___RS_Late.B 6506.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.696372,False
+ml/data/raw/plantvillage/Tomato___Bacterial_spot/94d4258f-e148-4b1f-a38b-8679ababce17___UF.GRC_BS_Lab Leaf 0229.JPG,Tomato___Bacterial_spot,9,Tomato___Late_blight,11,0.841932,False
+ml/data/raw/plantvillage/Tomato___Late_blight/207dbe65-2d3b-4820-ab49-2a1db65f9bec___RS_Late.B 5485.JPG,Tomato___Late_blight,11,Tomato___Bacterial_spot,9,0.92036,False
+ml/data/raw/plantvillage/Apple___healthy/60af8fc1-7f44-496c-9999-507d06e92142___RS_HL 7278.JPG,Apple___healthy,2,Apple___Apple_scab,0,0.96021,False
+ml/data/raw/plantvillage/Tomato___Early_blight/5bd6338a-0f10-457b-a7bd-69f2ee7c6504___RS_Erly.B 9534.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.859968,False
+ml/data/raw/plantvillage/Tomato___Late_blight/0ccaeb36-37ff-4328-91c8-99aabd68f442___RS_Late.B 6596.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.429692,False
+ml/data/raw/plantvillage/Tomato___Late_blight/96231bbd-d315-48e1-8631-f318b29cb60d___RS_Late.B 7080.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.862825,False
+ml/data/raw/plantvillage/Apple___healthy/e2799f4e-65ba-4f57-aa7d-9ac6cfa6c300___RS_HL 6265.JPG,Apple___healthy,2,Potato___healthy,8,0.502601,False
+ml/data/raw/plantvillage/Potato___Late_blight/6fea732f-0819-4ba1-922a-8cbb1a94baff___RS_LB 3336.JPG,Potato___Late_blight,7,Tomato___Early_blight,10,0.447326,False
+ml/data/raw/plantvillage/Tomato___Bacterial_spot/6e9172ee-1bb5-49dc-bf23-203b2de71bbd___GCREC_Bact.Sp 3518.JPG,Tomato___Bacterial_spot,9,Tomato___Early_blight,10,0.581477,False
+ml/data/raw/plantvillage/Tomato___Late_blight/d1c1488e-f121-4b32-a7f6-24c25ee6b766___RS_Late.B 7102.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.443742,False
+ml/data/raw/plantvillage/Tomato___Early_blight/19427ace-5a24-4e30-8a4d-228ab4a3b99b___RS_Erly.B 7403.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.737392,False
+ml/data/raw/plantvillage/Tomato___Early_blight/4c524fa6-db92-41e1-8d32-84732f78343f___RS_Erly.B 7768.JPG,Tomato___Early_blight,10,Tomato___healthy,12,0.673341,False
+ml/data/raw/plantvillage/Tomato___Late_blight/def832df-c202-4e72-ae0a-0687e62c70ce___RS_Late.B 5071.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.86931,False
+ml/data/raw/plantvillage/Tomato___Early_blight/deed458f-ec5b-46c7-9658-c005cf90fc11___RS_Erly.B 7480.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.864163,False
+ml/data/raw/plantvillage/Potato___Late_blight/93d91b96-e024-477c-9b76-796e3f1614d4___RS_LB 3297.JPG,Potato___Late_blight,7,Tomato___Late_blight,11,0.984154,False
+ml/data/raw/plantvillage/Tomato___Late_blight/1430346f-f3f2-4766-bd0e-c6f9316851e9___RS_Late.B 6311.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.610416,False
+ml/data/raw/plantvillage/Tomato___Late_blight/3f36ff41-3817-497b-95c9-7f79819925e7___RS_Late.B 6314.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.85834,False
+ml/data/raw/plantvillage/Tomato___Late_blight/97e49ab1-3159-4659-9954-518c94690a9e___RS_Late.B 5534.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.874419,False
+ml/data/raw/plantvillage/Tomato___Early_blight/dc4cc3e3-0181-48e9-93a2-7c019df0e04b___RS_Erly.B 9513.JPG,Tomato___Early_blight,10,Tomato___Late_blight,11,0.664438,False
+ml/data/raw/plantvillage/Potato___Late_blight/1cd053f6-0016-4680-a924-af15aecd7fb2___RS_LB 4414.JPG,Potato___Late_blight,7,Potato___healthy,8,0.48719,False
+ml/data/raw/plantvillage/Tomato___Early_blight/8b7b2dbe-cb3d-4ab1-a487-7c7d5553b796___RS_Erly.B 7448.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.744889,False
+ml/data/raw/plantvillage/Tomato___Late_blight/7616d956-c144-4105-9972-5f747c5159a6___RS_Late.B 5600.JPG,Tomato___Late_blight,11,Apple___healthy,2,0.458777,False
+ml/data/raw/plantvillage/Corn_(maize)___Northern_Leaf_Blight/d08114ac-a98f-41eb-82f9-fdfa91446ed7___RS_NLB 4062.JPG,Corn_(maize)___Northern_Leaf_Blight,4,Corn_(maize)___healthy,5,0.861539,False
+ml/data/raw/plantvillage/Tomato___Late_blight/1498c064-8f74-4706-bf27-4761c24b72bd___RS_Late.B 5120.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.910013,False
+ml/data/raw/plantvillage/Tomato___Late_blight/23c5c930-6830-46c6-8353-616c0b34ae12___RS_Late.B 4947.JPG,Tomato___Late_blight,11,Tomato___Early_blight,10,0.691836,False
+ml/data/raw/plantvillage/Corn_(maize)___Northern_Leaf_Blight/b16c0215-4f50-400f-9251-ae74284a41dc___RS_NLB 4057 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,4,Corn_(maize)___healthy,5,0.544522,False
+ml/data/raw/plantvillage/Tomato___healthy/7de93009-6180-4027-8779-76947cda3e2f___2700323949_95aa2eaa01_o.jpg,Tomato___healthy,12,Apple___Black_rot,1,0.775556,False
+ml/data/raw/plantvillage/Tomato___Late_blight/b687c1bd-478f-45ea-a69d-d66f980dea08___GHLB Leaf 7 Day 6.JPG,Tomato___Late_blight,11,Apple___Apple_scab,0,0.77872,False
+ml/data/raw/plantvillage/Potato___Late_blight/9bdce182-987e-4996-8cc8-34694b4e24e9___RS_LB 2837.JPG,Potato___Late_blight,7,Potato___healthy,8,0.806173,False
+ml/data/raw/plantvillage/Tomato___Late_blight/4f12205c-0035-48ed-b6b0-56f347fe2ab0___RS_Late.B 5085.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.557089,False
+ml/data/raw/plantvillage/Tomato___Late_blight/f2f22a54-7995-4b43-83bf-5a0fba777466___RS_Late.B 5583.JPG,Tomato___Late_blight,11,Potato___Late_blight,7,0.956066,False
+ml/data/raw/plantvillage/Tomato___Early_blight/4e5f8530-2696-433d-91ec-5f53488b1d18___RS_Erly.B 8299.JPG,Tomato___Early_blight,10,Tomato___Late_blight,11,0.730303,False
+ml/data/raw/plantvillage/Tomato___Early_blight/e229da8f-a130-49c3-8f78-485842c8a994___RS_Erly.B 7462.JPG,Tomato___Early_blight,10,Tomato___Bacterial_spot,9,0.657613,False
+ml/data/raw/plantvillage/Potato___Late_blight/72b12e17-d76f-4254-a4af-3ed3c3859500___RS_LB 3334.JPG,Potato___Late_blight,7,Tomato___Late_blight,11,0.952762,False

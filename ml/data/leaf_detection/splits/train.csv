@@ -1,0 +1,905 @@
+file_path,label,class_name
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_d13a70dd-9812-4b62-a8f4-3764a50abda3___RS_HL 1796.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_522.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_450.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_d4eef8d2-fff9-4f5c-b744-262e4f509d03___FAM_B.Rot 3111.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_375.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_d890fad9-fcde-4ed6-be88-10e61735cd9c___RS_GLSp 4368.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_473.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_85c546e8-0e5c-4d84-9ec8-3ebb53942b98___FREC_C.Rust 9847.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_30.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_799.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_4c3285d2-1ba0-4147-afd9-1869ee19ec4c___Mary_HL 6229.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_216.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_2478fee4-ef3a-4638-8641-f5524246f29a___JR_FrgE.S 2951.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_249.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_379.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_532.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_803.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_836.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_70190de6-c93f-4b1e-9c6d-19b0b424f42f___FREC_C.Rust 4315.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_31add1a3-eab6-4c9c-946f-d85d89297a0e___NREC_B.Spot 1842.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_481.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_693.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_240.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_259.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_db0567df-5005-4064-93c2-49d5485a9f86___RS_L.Scorch 1093.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_cb1f6b09-d542-4b9d-8b06-9e0f2a8965c8___Crnl_L.Mold 7079.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_a74e684d-f2f1-4e0d-aea2-f68054714a4c___RS_L.Scorch 1537.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_775.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_209faa6e-e892-477e-9a1a-1f69b37e579e___UF.Citrus_HLB_Lab 1390.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_4e362d72-5f68-41fd-a40b-506f7504af4f___JR_HL 9496.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_fdfada36-240c-4274-afd3-fc159f236d36___FREC_Pwd.M 4831.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_651.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_821.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_515.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_be6cc3db-0571-47d0-87f4-f01491a6ea16___NREC_B.Spot 9217.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_d2bab7ce-8028-41ed-b0a0-22472f904974___RS_HL 0528.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_112.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_475.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_4bccc3ae-4246-48f8-9c07-f4a1d5856314___RS_LB 2760.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_383.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_297.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_316.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_264.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_9bf5182c-2ae8-465b-b18e-477ec2ac337f___RS_HL 4398.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_437.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_806.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_862.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_1de17623-e625-4a3a-91e8-64973e6d09fd___RS_Erly.B 9577.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_da09c517-24f0-4351-94e5-d2b775b96f0f___JR_HL 7781.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_328.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_feb2cf1a-1903-4fb8-bc99-4b399346fef0___Mt.N.V_HL 6135.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_14.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_eabc47ee-5023-476b-9992-53baa566d270___RS_Erly.B 7757.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_269.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_107.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_671586ac-ff93-4825-b6a5-4b7bc7cbbff2___RS_Erly.B 9531.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_455.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_3af2ebf6-bc4d-45e5-a90a-561e8ab3e0bc___CREC_HLB 5713.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_36.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_20102c8b-dde0-47d2-8035-7ceeb42f1961___RS_HL 6207.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_a4bf3663-8d32-49e7-8394-cd0d29531704___RS_Erly.B 9465.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_5a3fc4bb-a78c-4276-8934-f0b037ffb860___RS_HL 5412.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2236.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_124.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_631.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_256.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_423.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_8e5be35a-21e9-4031-83a7-26b09f0cae7a___RS_HL 4472.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_8b016988-9b90-438d-8955-cfbc0d2d7991___CREC_HLB 5482.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_50.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_986.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_392.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_2035804b-547e-473b-a510-7773a7ff2c58___Com.G_SpM_FL 9359.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_bc248029-8236-4e2c-8343-c9ebf0abe24d___FAM_B.Rot 3564.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_645.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_4ae82355-6885-40e7-9807-dabe46ed3441___RS_HL 5410.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_774.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_662.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL 1748.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_283.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_38292ca8-c7fe-4ba5-837f-c98c714ab099___RS_HL 4608.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_699.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_661.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_ee584747-fea1-4d16-9c03-40bfc9bcf1c7___RS_Early.B 8600.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_834.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_afe0938a-0d13-4fef-b121-ffe3f655ec84___Rutg._HL 3598.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_0a02e8cb-b715-497f-a16a-c28b3409f927___RS_HL 7432.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_e1d129fb-f5ae-41e1-b097-445d792e4beb___RS_HL 0473.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_140.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_219.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_198.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_59924e08-eb7a-416c-b2cc-329af2d33301___RS_HL 7111.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_0f9d8b9a-a49d-4641-b956-dc0963d7b6da___R.S_HL 8148 copy 2.jpg,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_a9bc0746-7cb8-4cf7-8998-27afed5648d8___RS_GLSp 7322.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_eeae17c8-445e-4116-8329-48397093073a___GCREC_Bact.Sp 3459.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_f2eeb551-94e8-4ac2-a5de-4702e6349f42___JR_HL 8761.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_3ed0b169-3d96-4e46-a161-125fd48c16d6___UF.GRC_YLCV_Lab 02112.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_800.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_878.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_545.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_df84e2a1-7517-4096-b555-67fe2b7a7156___GHLB2 Leaf 9003.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_630.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_512.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_33.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_56a9ffe5-ea20-41de-b40f-c6970f54fab4___FREC_Pwd.M 4837.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_842.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_187.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_8796054b-9b0e-4d35-b566-3480171c8ae3___UMD_Powd.M 0625.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_9a4957bc-bd39-4ff2-9b28-0bb6bf6b58a0___Mary_HL 9179.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_305.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_4ae506bd-92db-458d-8953-3c01c1f574a7___RS_HL 2565.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_223.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_874.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_d38acc54-e479-4a30-bc31-f10f569ff63b___FAM_B.Rot 3067.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_72.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_1048748e-af83-48d0-ac54-2956ba4dc2e0___RS_NLB 4024.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_295.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_a48c8384-32d8-45d2-a734-7224569a40d3___RS_HL 1695.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_558.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_3abb05dc-ae2e-469d-a8fb-7aa87d3c84c7___FAM_L.Blight 1454.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_e45ae43b-3111-47af-8da4-65dc05595a7f___GCREC_Bact.Sp 5973.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_54d4d612-50a4-46cd-b0de-4e65988718f7___RS_GLSp 4637.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_504.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_5c79ec25-2ba6-44e6-b1ad-f0c6d5a875cb___RS_L.Scorch 0097.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_07cf8662-51eb-451c-b4cb-1b25cc8c6b51___RS_HL 2473.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_750584fd-72e0-45c8-b37c-97208bd559cc___RS_HL 1885.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_462f0ef8-5460-4f5c-8935-62a204d3fc08___FREC_Scab 2924.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_f1b4be89-0313-4fa4-b04e-1e3e126ee8fb___Rutg._HL 3528.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_70.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_3754ec0a-13b7-40c5-9839-b7499b6c365b___RS_Erly.B 7449.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_912.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_ae8da35b-167a-4121-a2b6-6eac31019a32___FAM_B.Msls 3972.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_872.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_675.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_cc729eed-8d8e-4a23-9b27-db78e418543d___FREC_Scab 3092.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_405.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_3f7f719f-9849-47c5-8f79-0384a64f8e8f___RS_LB 2862.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_64.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_168f4f5b-4a8a-4fec-a0fa-a54e182d7b00___Mary_HL 9198.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_97c56951-c45d-47e9-99a9-b9202bc36a6a___MD_Powd.M 0764.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_b8853fe7-7194-4ed8-bda6-b5799bf7815e___PSU_CG 2309.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_936.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_99418f88-7071-40ad-9d82-cc37c6199298___JR_HL 9479.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 1683.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_326.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_744.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_619.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_433.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_881.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_1a2da798-3f89-4379-90b0-d04951adb782___FAM_L.Blight 3645.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_408.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_a3d2fcfa-645e-419e-91a5-ab626f5fab6c___RS_HL 5930.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_b1043dad-c2cf-4cae-9418-5910f7fe7b94___RS_HL 5234.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_266.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_ac9b63b9-d14c-4d9d-bf6f-6888b6092d3c___RS_NLB 3921.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_d7e11d88-60e8-41d3-a840-2ad9bab04fe2___RS_Erly.B 6355.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_604ce081-94c3-4ec1-955d-447641f7a062___FAM_L.Blight 1700.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_4885eb16-083f-4132-afa8-8185eb86616a___FAM_B.Rot 3264.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_559.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_427.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_d8e3b97f-d362-4e05-8600-a103580aace4___RS_LB 4773.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_d25efe33-b74c-4f03-bc9d-314aab16c2ec___JR_HL 9886 copy.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_32cf04f5-dd0f-4c8b-9b92-f7b9b44b347e___Com.G_SpM_FL 8738.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_374.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_827.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_781.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_665.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_7fd734c2-0c61-40cb-a3c0-f7e229ea30f9___Mary_HL 9280.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_707ef394-bd7d-463c-86b8-4a13464bc6e0___RS_HL 7555.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_676.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_904.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_0fc1bc0b-2d7b-4c17-b32b-c7cc8301795e___RS_NLB 0829.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_443ad125-b898-4421-816a-0f4a5db04d8c___FREC_Pwd.M 0539.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_550.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_929.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_447.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_b536ea91-c5f8-413b-87f3-a22ac3d959d1___RS_HL 1825.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_445.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_82950cdc-cb72-437c-b1da-3e6988b9078d___RS_NLB 4131.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_377f30e6-bf06-41d6-885e-85bfe5146a9b___NREC_B.Spot 9072.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_620.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_534.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_2097ad9f-76af-47d8-b6f4-232437ba1f87___Matt.S_CG 1240.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_742.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_74.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_da40aa0e-3e50-48b7-aeb9-568b544972ad___Rutg._HL 2489.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_d824b284-23c5-4244-aa1b-7858c99872b3___FAM_B.Rot 2997.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_e5ca68e7-17cb-4aee-bf65-7abba2629a29___FREC_Pwd.M 0325.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_113.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_fdc2ad6e-3ed2-46be-b862-2475be5cc19a___RS_HL 4570.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_907.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 1925.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_158.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_eb7eb704-11ad-409c-a94d-94ff35a091ba___FAM_B.Msls 4415.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_780.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_934ee916-4db9-4c1a-903e-3ebdd8201178___JR_FrgE.S 8740.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_879.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_685.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_3cd9a770-3405-44a1-bf8d-9eb6d42bc0be___JR_HL 7642.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_538977bc-395d-4358-be90-7d76627ee7bd___FAM_B.Msls 4046.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_3.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_192.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_8898332b-c3e8-4c54-ba11-e5c183626bc4___Rut._Bact.S 1100.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_e39b074e-6702-4444-aa07-d5a9b3bd5446___RS_NLB 4002.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_0ff228a7-60f4-47f0-b1a3-96969a63105f___GCREC_Bact.Sp 6056.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_9a7d0452-4015-4cef-ab3c-f8f9633b6e9b___RS_HL 8117.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_479.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_133.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_546.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_852.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_e669346b-90a1-4a43-b436-48c8d03d37a4___UF.GRC_YLCV_Lab 02300.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_a4403c1b-ad05-4b03-9d13-7367a2d16a16___R.S_HL 8272 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_190.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_8984c4c8-d358-405f-909d-f0d7351e44a7___JR_HL 8677.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_178.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_13.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_351.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_2a7259ce-5903-4357-9341-c6455c66cc85___JR_HL 9617.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2177.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_871.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_e6efb6e3-7e58-441d-808f-bdb535f8ad70___Com.G_TgS_FL 9764.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_2d1ac581-1847-419e-8254-55a9caad6b2b___JR_FrgE.S 8766.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_5bb01712-dec5-40e7-8ceb-a2836ffab201___GCREC_Bact.Sp 3851.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_9e6ab532-2a3a-4415-98b5-a1be716eef9c___Crnl_L.Mold 6619.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_606.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_448.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_2b19425c-51fd-498a-ad3d-d8875bd29923___JR_HL 8099.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_12.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_182.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_304.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_04747279-48b2-4ce1-932b-e511424beb6b___RS_Erly.B 8240.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_702.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_511.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_339.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_217.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_b3e94e12-8f4b-42b0-9c08-af5961be2460___CREC_HLB 4890.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_38faf81d-c83b-42ca-b4c3-e3bbfa070589___RS_HL 1805.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_2832ca53-be67-44c0-ac55-eb815bd85fd3___RS_Erly.B 8242.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_5ce5c29a-47c6-414d-80d7-f12b0255f71a___MD_Powd.M 1062.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_dc9b5873-ce86-483b-a92b-d9c69f906e90___Mary_HL 9216.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_979.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_cafa778c-9b8b-45e7-8ffe-bc6fb3eec439___NREC_B.Spot 1923.JPG",1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_b0ad5e4c-522c-4215-897e-39fec504c1a6___JR_B.Spot 8840.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_d6185a8e-8ac1-4307-841a-f5e862b26a4d___GCREC_Bact.Sp 3179.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_5609e627-47b2-4008-af43-c8103689a6a0___FAM_B.Msls 3922.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_203.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_543.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_102.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_931.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_54.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_67e65af1-8ce3-442b-a53c-0fafa10db86c___CREC_HLB 5120.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_77.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_536.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_835e8e1c-aba2-475f-a600-ce8693d5bbdc___RS_HL 5466.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_308.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_76209651-9e68-4431-8ec8-b7483d548089___Matt.S_CG 6761.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_3737a846-d49c-4f70-bb38-a11922e093d5___RS_HL 8017.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_615.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_531.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_02e47796-808b-449e-bbba-f6e0262fa589___Rutg._HL 3714.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_134.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_88025ed3-53e8-4f5d-b9a2-3c67a01cae05___Rutg._HL 3563.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_f77c7ac1-f55e-4adc-b049-35def4e87c17___JR_FrgE.S 3077.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_c212ff65-f669-4ed3-bdbe-0d5a45c32de8___Rutg._Bact.S 2051.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_730.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_846.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_b20fe9e8-8962-47d8-ac19-13429747bda0___Mary_HL 6396.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_5607d865-2e2a-46d5-a73f-e79b5aee0d35___RS_HL 7219.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_870.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_7795f733-eeb0-4353-bdb8-b2f4d8d622d4___RS_Early.B 6960.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_928.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_d85caca5-875f-42c6-94c9-15c58e22fe64___Com.G_SpM_FL 9354.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_8e59061b-3802-4297-8724-a001efb95268___PSU_CG 2064.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_100.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_42bc0da9-199f-428f-854c-a9b05c57aa75___RS_LB 2770.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_58053fa6-04df-4c96-901e-924bdbcaaf1e___JR_FrgE.S 8774.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_c661bd24-6fcf-4802-9010-68ef6e2e7fa8___Crnl_L.Mold 6644.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_cac9b9c2-4be6-4580-a453-cd00809e5761___JR_HL 8156.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_426.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_476.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_867.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_81b7dbd6-c279-40b9-bb9e-bfb56c342cd3___RS_HL 0651.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_36a8ecb2-659c-4b9c-92c8-4c0b883a7b91___FAM_B.Msls 1109.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_f3bbf9c8-06fd-4f1e-930a-f576c0fbc06d___GCREC_Bact.Sp 3717.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_613.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_2c568fd2-9e81-44ce-ba5f-ae71c7957b69___Rut._Bact.S 1391.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_d6e06adc-15b1-4513-97b7-7e7b3920824f___JR_HL 8258.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_121.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_eda51a46-b237-47c4-b19f-97463e2c303a___RS_GLSp 4618.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_3fb57074-5e53-45e8-9219-bc0cee74f440___RS_NLB  4597.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_a95f0a82-5cad-423a-be56-8205317909e8___Crnl_L.Mold 8677.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_272.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_47.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_825.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_3658d11f-3a09-43ce-bace-391510b30737___Rutg._HL 3569.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_2b6c0bc1-c844-440f-b145-89e85250307c___RS_L.Scorch 1180.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_976.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_c0a69909-e94c-4155-a008-20b5445c56d7___RS_LB 3909.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_18488cdf-a5d7-43ff-8dfe-8250e1a04820___Crnl_L.Mold 6939.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_944.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_623.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_454.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_f2c0965b-9c08-4e34-98e2-fbf310ae2ef8___Mt.N.V_HL 9038.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_691.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_2ede1d64-78c5-4d5f-98f1-c486ba32ae67___RS_HL 2482.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_1f9870b3-899e-46fb-98c9-cfc2ce92895b___RS_HL 1816.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_886.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_ad48a0f5-3036-4d59-9d9b-27a5ea752131___RS_L.Scorch 9964.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_855.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_2bbd0a49-9a1c-473b-bdf3-51f154db463e___RS_HL 6081.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_794.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_160.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_08c1c1e5-bb78-44d5-b46f-a86386c0ef3b___RS_HL 0063.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_23d4fa2f-a966-44a3-a597-b39a79618378___RS_HL 1744.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_602b97d7-0319-4ca2-a8f1-91390a7489de___FAM_B.Rot 3530.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_811.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_61.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_e6b262b1-e3ab-483e-93fa-6da710d6606a___JR_HL 9488.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_0982d864-182e-4d36-959a-dcc67d85d9e6___RS_Erly.B 9481.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_945.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_254.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_323.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_876.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_e2085395-2d3c-4698-ad7f-da9fdc73c4d1___GH_HL Leaf 254.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_debfee6b-a167-480c-88dc-2b02279d7e93___JR_B.Spot 3158.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_735.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_b1efda88-84a3-4d96-b3bf-48d7e12155e9___FREC_Scab 3009.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_241.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_77c978a3-7285-4d36-a858-1b77729020b7___GH_HL Leaf 462.1.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_729.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_79.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_47466bf9-8877-4eca-90b9-086c2a448bf0___MD_Powd.M 0412.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_930.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_377ffc94-d068-4ba0-80cc-dea49edf094d___RS_HL 0367.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_739.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_36d00ba4-ce07-4c30-b5cf-416c13d22a47___JR_HL 9804.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_726.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_98735a23-9c85-4110-a4b7-f3614a7e168d___FREC_Pwd.M 5055.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_189.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_2e7e9a37-1d74-4435-94a6-6ac966447e75___Com.G_TgS_FL 9853.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_e8af18fb-37a4-448d-89ff-766806b9641e___RS_HL 5101.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_672.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_8719a4ba-7050-4992-af33-0326d9ef3a9f___RS_HL 5385.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_562.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_06b911b8-1375-4da1-929c-2294c4051ece___GHLB2 Leaf 8883.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_229d89f1-b2ac-4427-b7e7-47139f62b73d___RS_HL 7341.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_663.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_490.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_8423e152-de09-419d-9f50-55a9a3bb340d___Rutg._HL 3511.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_487.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_45c9c618-5b71-4d9d-a08a-4bd3ceaa0be4___NREC_B.Spot 9178.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_813.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_280.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_820.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_924.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2490.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_302.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_191.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_9c230647-02da-4948-9c52-dfc87bb1d34a___RS_LB 4593.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_cda3b0ec-ee7d-4616-95d4-d8064c30e376___Com.G_TgS_FL 0928.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_88.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_935.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_29.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_ee6fafa1-2ab6-43c1-83fe-082b265e64f5___GCREC_Bact.Sp 2964.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_6daf8783-ab4d-451e-8aaf-00e29b23e29a___RS_L.Scorch 0009.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_2c2787bf-47fc-439f-8fa9-0423cd69a68e___UF.GRC_YLCV_Lab 02305.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_f6c931a8-b023-4368-bb35-0e7a62a74f48___R.S_HL 8033 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_868.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_49df8e8e-ecbb-4a62-b417-16f662d67b09___JR_B.Spot 9042.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_95.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_229.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_144.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_960.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_7f790574-ac82-4a3e-9a4d-02cd7762dce2___GHLB2 Leaf 8948.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_925.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_b6021a77-4136-43e0-a890-f3a5fa0bba42___Com.G_SpM_FL 1607.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_291.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_684.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_dc89d1b9-0c5c-4178-b341-c8675d04dad3___Mt.N.V_HL 8971.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_1f9ead63-93e5-4379-885b-b2b57352202b___Mt.N.V_HL 8938.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_46.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_743ddf7b-a620-436d-b69b-125044a0d9fc___FREC_C.Rust 0037.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_491.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_99984d92-3b34-4ae7-bd45-e0289fc1a38b___UMD_Powd.M 9771.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_502.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_458.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_35.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_922.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_0139bc6d-391c-4fd1-bcae-cc74dabfddd7___JR_FrgE.S 2734.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_c2ba12d6-7571-4d5a-bc20-d7df07b32102___Rutg._Bact.S 2039.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_537.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_434.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_674.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_38a78908-7a67-47ac-9f08-43cdd3f17fc8___JR_HL 6010.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_1994cd3e-4000-4c56-bede-d35a1eecc287___RS_Early.B 6867.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_474.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_59def4d2-f75f-4550-875a-adafdf5b4ab9___RS_L.Scorch 0976.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_04fd8e07-f450-4a00-ab97-b7b033226ddd___R.S_HL 7952 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_567.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_300.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_683.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_53578c92-d46e-4d7d-950e-66ad61da023a___UF.GRC_YLCV_Lab 01618.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_211.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_237.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_314.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_768.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_6b5eed43-832e-4cca-97eb-534b65635d14___PSU_CG 2050.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_41128d1d-2a43-4c08-a100-c92c2fc8b9b0___GCREC_Bact.Sp 3413.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_913.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_3a172497-2b24-48bd-acaa-cf2acb612db5___R.S_HL 8249 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_109.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_723.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_f4d9496d-2295-41bc-a3e5-4a8ceb1ff5e6___Rutg._HL 3558.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_3c96ff43-4d86-4bfd-a450-b4a4ad398c2d___JR_HL 9862.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_680b86dc-14e0-4668-95c8-776193015146___RS_Erly.B 7854.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_df266ee0-67e4-439f-b3d0-d00d8257aa55___MD_Powd.M 0865.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_911.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_908.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_509.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_73.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_238.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_483.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_767.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_638774fe-d7e6-4920-a8d9-e39b9c308474___GCREC_Bact.Sp 5806.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_668.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_981.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_41.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_620feaed-26ab-4165-ba19-31bc6a53154d___Rutg._Bact.S 1612.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_faf64a07-ea03-429d-b41d-2a87d2dd066a___RS_HL 5957.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_ed60a782-22dd-4aa6-b16e-494b75fd3174___Com.G_TgS_FL 9896.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_830.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_469.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_adbac054-fccb-4578-8139-b91bea38110b___Com.G_SpM_FL 8812.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2607.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_873.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_201.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_f63b44c4-4579-41b0-bd51-32d38903976a___UMD_Powd.M 0456.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_227.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_369.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_28.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_3e2945ba-7e94-4faa-9877-5133350e8733___JR_HL 7640.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_9c620128-2872-4bbb-bc14-d5b785242cf6___RS_HL 1751.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_ebf036fa-436b-42aa-8a34-0b0f188bc54a___PSU_CG 2134.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_962.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_7bbedc12-5132-4fd0-a333-9b70af78c096___RS_HL 2493.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_890.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_45.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_2f4afdee-f957-400f-8515-4ea92173d00d___Matt.S_CG 0667.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_fb7e29e1-7b58-496e-9f33-e0e48411a95b___RS_HL 6791.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_202.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_11922494-321b-4742-afbe-f6db6a8b4005___RS_Erly.B 9392.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_355.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_c760a4a6-ca37-4de5-8370-915fe2cf767d___Com.G_TgS_FL 0770.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_9c58d931-8414-452e-b9cb-f911b8890236___JR_FrgE.S 2778.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_caef0735-6517-4194-b124-5916815e4a71___RS_Early.B 7956.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_499.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_815.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_c237bdbd-ca4e-4cd8-b1bc-77b0511944da___JR_Sept.L.S 2606.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_23f4d3b1-23f4-43fb-96c2-dae37224ec74___RS_HL 1803.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_819.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_fa148283-75ee-4806-8282-63662a2e05c1___FREC_C.Rust 4416.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_3fc7db0a-4a9e-4441-88fe-f0dd423ed09c___RS_HL 7027.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_e536c0e8-e2ab-45c1-919b-4643988791e9___RS_HL 0521.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_184.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_119.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_185.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_783.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_4d8cce21-a64f-4953-8c56-218f1611ed29___RS_Erly.B 7372.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_120.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_603.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_617.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_954.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_461.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_465c6766-6de2-4923-8560-ce0e265e88b2___JR_HL 9766.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_c14f5f1c-3e03-4393-88ad-774f11484e78___RS_HL 5796.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_9e6f4d5f-c44a-40f0-bfbc-dcf0ef5f1371___Mt.N.V_HL 8940.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_e4113b41-f147-44d9-a531-2824bf5cad3c___RS_NLB 4048.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_163.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_046a2559-23b4-4018-a3db-337347ceb391___PSU_CG 2321.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_973.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_616.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_a0900c57-a463-4412-a3bc-83b413d3eae3___Com.G_SpM_FL 1395.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_a00c665f-2c4b-42b1-9e36-a77a129c79da___FREC_Pwd.M 0301.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_d57f5f33-d8e9-4c40-80ad-c2875743f781___RS_HL 5726.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_ea403e5a-34b3-4b06-a94d-65ad2e78831f___RS_Early.B 8136.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_9fcc3c88-5083-43a8-a65e-3ac55558ca1d___JR_HL 9633.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_4f1d732d-fe6b-423e-9ec5-c901b63e204e___FAM_L.Blight 4831.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_a17c4c93-6dbb-4b68-a514-ac6fb7a8b8d7___FAM_B.Msls 0971.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_848.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_6cf1c4d7-d99f-4f70-a003-37054e9f617a___GCREC_Bact.Sp 3417.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2602.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_204.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_ecbd7405-1086-4c8a-9564-30e8b431247b___RS_HL 7245.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_f900ec33-0b1d-4f4e-b38f-fdd9f34a2a5e___Mary_HL 6250.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_8849f6f6-644f-4d0b-8fbd-0902b6206ead___JR_Sept.L.S 2459.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_8081f3a1-d992-43bf-afa4-402ed06a83b1___RS_Early.B 6860.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_5b2c9b7e-4f3a-4850-bd70-35230df9c794___Mt.N.V_HL 8933.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_271.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_40f8f9da-fb45-4cde-b969-3ef1fdf8e713___FAM_B.Rot 3097.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_110.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_900.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_e3d043b6-c62b-4e04-8878-fe26f20025e9___RS_GLSp 9360.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_568.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_64834018-2894-4c6b-9b25-5b1be3b7d196___FAM_L.Blight 3716.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_f27e2b74-aa0c-4152-b28e-ff5b6e54cfa7___FAM_L.Blight 1520.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_83.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_07dfb451-4378-49d1-b699-33a5fc49ff07___RS_HL 5399.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_20b52ff6-9a8b-4bdd-8d52-ff7e820bea22___FAM_B.Msls 3889.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_c0240d98-f8f7-4e02-95a3-0723d1f61ca1___RS_GLSp 4383.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_974bc246-0ab0-4a54-95c8-dd0b557f676b___Crnl_L.Mold 7059.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_311.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_c1291fe6-06c2-477e-b30f-dca9a9a80079___RS_Erly.B 8371.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_356.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_173.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_605.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_926.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_5d1140f5-ce1e-457a-b62b-3872b985eedd___Com.G_TgS_FL 0042.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_fd3b6292-6d21-4f4a-969f-9ed064e2c451___Com.G_SpM_FL 1415.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_162.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_40a5e87c-ee32-4d67-9b28-926e94638a1d___FREC_Scab 3251.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_1058d7d2-1b7d-40cc-ab26-95b2da23198b___RS_Late.B 4964.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_f16bde19-7f34-4681-bd41-a3cf36f83c29___R.S_HL 7992 copy 3.jpg,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_7a42f00f-0b6f-48f4-ada5-569fb12ce8f7___Rutg._HL 3682.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_9155a721-9e2c-4b58-99be-eba41f454525___Mt.N.V_HL 6053.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_eaac4a8f-7e24-4bfd-96ce-52eb4339772e___JR_HL 7597.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_06d0298e-18e5-4bf5-8d33-8feef6600f15___RS_Erly.B 7573.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_766.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_6f69678a-a16a-417a-931b-49a22e810ed8___RS_GLSp 4679.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_3331b5a5-229a-416e-9605-c279ec0cf414___Com.G_SpM_FL 1768.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_93f19f54-a7c0-4eed-b7d7-6acfe9e2a2d7___GCREC_Bact.Sp 5827.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_839.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_1ce9343f-125e-4abb-9cd4-fddf761504da___JR_FrgE.S 3096.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_52.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_829.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_295e2145-800f-4c3c-9728-e45b1cd8e113___RS_GLSp 4316.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_722.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_627.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_656.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_2e594c45-c4c7-43b1-ab19-100945e7a2a7___RS_NLB 4020 copy 3.jpg,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_a67ce05c-3102-4dd9-ac63-872a526f5ae8___RS_Late.B 6124.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_638.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_396.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_55cc7d97-c88a-4053-8691-288e94bf96b0___Crnl_L.Mold 9182.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_357.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_106.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_701.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_733.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_896.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_400.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_764.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_c4d8a014-c573-41fe-afb0-e4b1fb96d62a___FAM_B.Rot 0673.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_aa04b9b8-28e8-4dcb-bbff-8d86ec6168a1___FREC_Pwd.M 4782.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_9.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_58.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_376a1bda-3613-4275-be2f-2060422e4398___Mary_HL 9211.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_681.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_943.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_8babd25a-f124-4d1f-a57a-5db347b34f0d___PSU_CG 2355.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_678.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_513.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_9141a8b4-6144-446d-b71d-925bcd432840___RS_Early.B 8648.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_93c3cace-b855-4282-917b-8dcd30e8c1d7___JR_HL 9702.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_10742761-050e-4a3b-b3ef-cbbde8cd6d2a___Com.G_SpM_FL 8445.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_cb6eba3e-5837-470a-b6cd-75721d7a5865___NREC_B.Spot 1806.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_b625db0c-4b96-4cac-b6ef-8ded223bc857___Crnl_L.Mold 6563.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_bb82f621-0b32-4fef-bb8f-9d44737e65d3___JR_HL 7619.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_91.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_961.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_716.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_4d2fbee8-64de-4a81-a05f-3ecced2a4788___MD_Powd.M 9954.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_505.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_42.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_439e38f4-c857-4270-9559-9d44af5aaa5c___RS_L.Scorch 1335.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_115.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_71288499-1409-445f-b3af-40310f50471c___R.S_HL 7904 copy 2.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_586.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_263.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_35f54a01-f19e-422c-bf6f-95a4b84bd6cf___RS_L.Scorch 1059.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_317.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_717.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_c1336a7c-701e-4455-a04c-204eadaf42c2___FAM_L.Blight 0793.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_139.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_159.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_16.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_1b0e7982-54b4-4197-9a3d-5ff8eeb2dee6___R.S_HL 8303 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_767e3ee3-996b-48f9-b587-0b19e0eb3569___Rut._Bact.S 1451.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_937.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2718.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_153.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_155.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_893.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_de0d25d1-eb08-4b9a-ac44-07d755d1fca0___FREC_C.Rust 9856.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_853.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_59.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_1ce4ecdf-fe69-42df-a0dc-c90f5495e7a1___JR_FrgE.S 3041.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_e8bdcdd5-32e5-48e7-a563-08d5ad2063c3___RS_HL 0581.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_a523ac3f-ae53-4da7-a3e1-7cce38714f75___RS_NLB 3812.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_6f1cda60-ba09-4c3e-a54a-3f08cfd15d1e___Mt.N.V_HL 8975.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_d636946f-b3da-4b36-aeb6-f602ef86a245___PSU_CG 2101.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_658.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_424.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_8ecd57da-0346-42ba-93db-1fd89fe8dfc7___MD_Powd.M 0847.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_50d0c9c6-94ad-46aa-a94f-5a595eb65998___NREC_B.Spot 1946.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_564.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_cb2693e0-8ddf-4a94-a894-23d567efd762___Rutg._HL 3562.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_40.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_9b4df340-b1bf-4294-a275-1bc0d9b64ff6___GHLB2ES Leaf 138.1.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_388.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_456.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_519.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_3be4b3ce-9fc7-4216-98f0-abd0faa9e45c___RS_HL 9945.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_175.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_e48ee8da-6420-4a81-944d-1a5f03cc9136___Rutg._Bact.S 1875.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_859.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_2471c3d8-c8b2-4e2a-9943-afb84ed48a35___GCREC_Bact.Sp 3198.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_85.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_8e187f7e-4dc7-4da0-97f4-aed15be3a7a8___RS_HL 2753.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_206a3062-fcf6-4724-a42a-ace810a07afd___FAM_B.Msls 1197.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_451b61e2-37d3-4c7f-a843-a2a7af7b2161___FAM_B.Msls 3806.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_735f7469-96ea-4e79-9865-72883d3c16db___Crnl_L.Mold 8998.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_791.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2759.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_1be11ac2-41f6-43a9-9fc3-a673ae539757___FAM_B.Rot 0656.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_332fde6a-5e8b-4a8f-85a0-e3550196774d___MD_Powd.M 0180.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_27ffa018-265a-4ae7-9c3d-66586f28f342___GHLB2 Leaf 9044.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_769.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_887.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_7e30ae4f-05e2-4806-ad63-c86fb601d445___PSU_CG 2412.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_387d80fd-1770-43a6-9937-6a55fd99d461___Com.G_TgS_FL 9990.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_738.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_593.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_915.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_477.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_a3bfb6c7-1f1e-407a-a2cf-40b316896185___FREC_C.Rust 9819.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_4696cbe7-0515-4dbf-a3f6-067d6358816f___JR_HL 8443.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_257.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_8813e958-3b2a-4eee-86bb-88133f98b971___GCREC_Bact.Sp 3297.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_598.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_4e0937f6-833f-4671-9601-fdc347c3d183___UF.Citrus_HLB_Lab 0327.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_83bd57f8-9061-4b1d-ac71-b426f16c7be6___UF.GRC_YLCV_Lab 02870.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_417.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_653.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_31f275aa-0701-4a56-b9df-16e5ee852b4a___FREC_Pwd.M 4674.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_e3ab55a1-6705-4955-af54-daed3a6faa4b___Com.G_SpM_FL 8860.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_eefd6021-3784-40a2-b0e4-43cc3c2dccc9___FAM_B.Rot 5025.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_46edfbcd-876e-4310-bba7-bae2b8fcc773___GHLB2 Leaf 9069.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_11594f0c-5802-43f4-9281-610a908387d4___RS_HL 2002.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_401.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_430.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_1a38f06b-da2a-4c57-bef1-a73254896403___RS_Early.B 9178.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_06b545ef-7b72-4560-b6d8-c2b62cd19f87___UF.Citrus_HLB_Lab 9751.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_952.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_42c1e862-8f8b-4e41-b091-7e0a4ed25d2e___MD_Powd.M 0086.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_2ccec9ab-60e1-4b79-bfdc-b33d387db907___RS_GLSp 4576.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_260.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_145.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_410.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_103.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_760.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_782.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_78d75cc6-54e0-469d-ade8-d67d1752872a___RS_HL 2018.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_755.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_5829c049-aa10-494a-9663-8ce0677e64f7___Mary_HL 6330.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_b2601912-33a1-4fb5-915a-d09d9808c7a1___RS_GLSp 7340.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_274.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_497.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_174.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_2211cfa2-311c-41f0-aba5-9bdef8037f20___Mt.N.V_HL 6051.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_6.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_74da2974-f193-47f3-8f3e-0818cd619b46___Matt.S_CG 0788.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_698.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___healthy_8fc498ea-cad4-48cd-9fea-af07f803a63b___Mt.N.V_HL 6198.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_652.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_8493b49f-1b73-4d5c-b6f9-ae9a41091643___RS_Early.B 6720.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_ed9bf06a-c409-4d0e-becf-b7fe2dbe916f___UMD_Powd.M 0343.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_f7496493-4e86-4984-b551-e81d964b9366___FAM_L.Blight 4792.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_3c337533-7f33-49d5-9c35-9fdcb4aa68c1___CREC_HLB 4463.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_959.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_903.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_48.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_835.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_3c813cf8-6949-4e1f-b812-3530e3ab5c8b___RS_Late.B 4828.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_d0dceae1-6bf8-475a-99fa-f27accadece0___GHLB2 Leaf 8778.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_03b3e88f-63ad-49e1-88c2-b8bfffd6aaf6___Matt.S_CG 1226.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_64939151-e6df-4236-8ba4-51ac9bcd7795___RS_HL 1811.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_9431682d-6de3-4b1f-bdde-11b706fe2e85___FREC_Scab 3029.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_01e591c9-e3e7-4edc-8211-13081f4d5e7a___RS_HL 1979.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_699c9da1-1968-469b-aab5-35b9856c04b4___RS_NLB 3776.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_533.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_67.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_972.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_1e2fe7d3-3d69-4cf6-aef7-e9975940bd40___GHLB2 Leaf 77.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_675d6618-29f2-41e7-8b0b-d7facdf9cd67___RS_HL 2105.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_9ae93bcc-5cfb-4407-a711-de800fb2853a___GH_HL Leaf 519.4.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_05dfc382-396a-4301-b940-7d1098feba11___Mary_HL 6358.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_a0e83b60-008d-40b1-b0f4-c3c2e02d8eb3___RS_HL 0092.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_877.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_650.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_210.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___healthy_40e5e314-1484-40c0-8297-3efde6fb5e89___R.S_HL 0613 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_569.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_330.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_9cde7a11-a044-4ca6-b1f1-4507b867f915___JR_HL 8580.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_807.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_600.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_539.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_128.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_2171eff3-55f1-4b5e-8258-d8ddacc66062___JR_FrgE.S 2752.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_3dcc7f03-3958-410d-aae3-8f2c8c2992c0___CREC_HLB 6623.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_457.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_790.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_195.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_bede2484-dd97-4291-9132-bf015313a6bd___RS_HL 8196.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_233.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_649.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_916.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_ddd5592e-3d38-4226-88b4-493bb63f64c1___RS_HL 6916.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_277.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_894.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_828.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___Leaf_scorch_6d856e7c-5adf-4210-9cb5-e1879b7fc319___RS_L.Scorch 1597.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_63.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_804.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_54fba224-3e9e-42eb-8802-a016a6f65cba___Rutg._Bact.S 2306.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_dbed8377-f651-4b5e-8a0f-f1f3ec14e81d___RS_HL 4939.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_974fc349-46f5-49f6-b269-f4fcd75167a7___FAM_B.Rot 0637.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_fea5289e-4a3a-4891-bbcc-fb38b75a23f9___UF.GRC_BS_Lab Leaf 1164.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_958.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_131.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_949.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_1e4aef32-09c5-4af8-8948-dc86bd8ef2e7___GH_HL Leaf 215.1.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_20.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_ae9bb8b1-c693-4eb4-b90d-2e0c53bac23b___FAM_L.Blight 3696.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_f7ad37d0-0294-447d-bd0e-71c6758d0a0b___Mary_HL 6288.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_290.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 1955.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_68a57535-547d-4287-89cc-6d8acc265372___FREC_Scab 3351.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_608.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_927.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_43.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_f0d56524-1296-4a54-bafa-9b620baf9f1d___FREC_Scab 2942.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_91596c44-dbe1-405a-b350-9949d8cea365___Rutg._Bact.S 1972.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_e2bc1ccf-bbc2-457b-89cb-6e7154ec3414___NREC_B.Spot 9092.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_a46a039e-e655-4c48-9627-a5ed9f218203___UF.Citrus_HLB_Lab 1625.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_798.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_30126310-39de-4c02-b10a-23409417a4f6___RS_HL 1826.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_57.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_166.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_837.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_222.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_787.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_412.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_390.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_777.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_78.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_983.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_309.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_0618177f-c21e-4075-bf1c-ea3ac9cca3e4___UF.Citrus_HLB_Lab 9904.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_d1773f0b-f049-4bb1-b13f-d33b96078ab3___FREC_Scab 3046.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_573.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Early_blight_fcbc5323-1679-416c-bb10-534e686f21bd___RS_Erly.B 7801.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_377.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_a4534f9b-87ca-4ce0-a6f8-84f94544ef37___RS_LB 2775.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___healthy_170f1f57-0fd4-421f-9c82-3b1804be63ad___RS_HL 1771.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_43a3cb8d-14b2-47c2-a3bd-22a5956ea118___Com.G_TgS_FL 9983.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_f553d7cf-9c9f-46bf-b99a-8e3505afd96d___RS_NLB 3873.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_a515cf30-960a-46ec-b19a-9d66894029d6___Com.G_SpM_FL 9519.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_2577b25b-c0ac-442b-8093-42e6490bad1e___RS_LB 4319.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_717d5cf9-40c9-4e60-b0e8-df4324fc77d0___FAM_L.Blight 1440.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_602.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_25.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_bf9d41dd-cd9b-4277-9c8c-af5860b00615___RS_HL 5442.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2743.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_11a23270-53e7-41b6-8c79-91caeaf9cfa6___JR_B.Spot 9050.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_860.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_560.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_955.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_866.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_484.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_d007f0d4-30a4-4d9c-b193-09cef70b547b___RS_GLSp 4617 copy.jpg,1,LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_4a11d51c-32a7-41b1-b089-8caf4c467b02___RS_HL 4815.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_928e5ee5-6568-4e73-afbf-8251794d33a8___FREC_C.Rust 3747.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_8fd46690-5e57-47f6-8d99-235d4738411f___FREC_C.Rust 0074.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_556c242a-d3cc-4bde-bc93-6c8a33e43634___FAM_L.Blight 3783.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_594.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_cc83c592-a6bd-46e8-8bd2-5bf03df02c73___Com.G_TgS_FL 0704.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_ffd73dc5-8b5b-4d7b-b44d-640ae3489190___FREC_C.Rust 9944.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_6b986cad-78b2-4aad-a713-5dc2e87a2d1a___JR_HL 9614.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_252.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_755bfb4c-6d92-4a7f-814f-62615df4285e___Com.G_TgS_FL 9713.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_340.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_243.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_7673a7d4-c27f-44c5-96a8-c9f133878ba0___RS_HL 2240.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Squash___Powdery_mildew_c1dfada5-f855-4211-9481-6162ed3e53d7___UMD_Powd.M 0012.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_c6cfdcc7-c5e6-45bc-8b5a-709bf2753902___RS_Late.B 7081.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_a6e19d46-c344-44c6-b6dd-dde257d23279___FAM_B.Rot 3447.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_a0fdd802-dc17-4e27-9cff-11b99fa50f9d___FAM_B.Rot 0740.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_436.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_409.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_464.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Orange___Haunglongbing_(Citrus_greening)_7d3727d0-b9ea-4e3d-b032-ab1fd6525970___UF.Citrus_HLB_Lab 0566.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_440.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_6120d8df-66a3-45c1-ae2f-bb8065928df4___RS_HL 0420.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_31.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_76ca83b8-0695-470d-a715-2fcb9efb4fc4___RS_Late.B 5062.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_404.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_3af39eb1-8252-4443-b9aa-6c432e95ddd4___Rutg._HL 2434.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_841.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_221.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_d0ec3b78-8ea4-4938-bf6d-1baf5f0d640f___RS_NLB 4250.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_466.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_f105cc0d-1cc5-4726-b46d-f5bd9c9aacc1___FREC_Scab 3321.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_353.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Target_Spot_e90c87fc-7b4d-45a0-9934-51a8d91317f1___Com.G_TgS_FL 8384.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_0caf6a39-3f5f-4201-a4d7-3ea35fdf1303___RS_Early.B 6762.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_703.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_33f2ada7-3d14-4a85-9601-126da3eac03f___JR_FrgE.S 3022.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_f91c4442-ad78-4785-b1a4-239b45b56ca1___GHLB2 Leaf 110.1.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_afbec0b7-d8e5-40dd-b4c4-f602a94a336d___FAM_B.Msls 1332.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_670.jpg,0,NON_LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___healthy_96e5d365-09d4-4968-8cf1-45be478eb180___JR_HL 6003.JPG",1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_4cfe5b54-4bcb-434c-9056-a43d3ecc047c___Rutg._HL 3645.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_68a2486d-c010-4a35-938a-1237ad28ad7a___Com.G_SpM_FL 8992.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_857.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_901.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_126.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Bacterial_spot_cd14eb9f-28be-44fb-8687-a7469f5a88b8___GCREC_Bact.Sp 5740.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_482.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_626.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_69de5784-3876-4928-80b9-43245d16d54d___Mary_HL 6341.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 1989.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 1797.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_493.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_639.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_844.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_891.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)_48f89d78-f5e2-4b1d-9014-0bd7b16e17c1___FAM_L.Blight 4910.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_dc625fd1-1e66-4b78-882a-9be38921e30f___Mary_HL 9333.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Common_rust__RS_Rust 2282.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_dcc3727e-98b0-4dd0-b0bf-1f039736f2e3___FAM_B.Msls 1739.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_985.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Spider_mites Two-spotted_spider_mite_9e0c8ec8-f525-444d-8657-32b668771b2f___Com.G_SpM_FL 1451.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_101.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Black_rot_2d73e025-38f5-4d98-8ca9-253d44c922c6___FAM_B.Rot 3232.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_f6dde179-db72-40f1-beea-3566d1ca4eed___Rutg._Bact.S 1291.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___healthy_61850bd6-c8a7-4a11-9eb1-b3746e9a37ed___Rutg._HL 3743.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Northern_Leaf_Blight_76ac9115-7016-46bb-93a2-cbc420792406___RS_NLB 0782.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_62490062-4c67-4caf-bec5-df1342ec2987___RS_Early.B 7946.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_832.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Black_rot_c60b9b66-c955-4c35-bf7b-0c9b429b3477___JR_FrgE.S 8693.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___healthy_a8c76694-697e-4684-bc13-ac1302ebd3c0___RS_HL 7411.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_1718d8be-4fa8-4d5e-92ed-37bc06bb92ac___RS_HL 5218.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_mosaic_virus_99a4b1cb-e55a-4954-a7c5-ebb0cc57ed2a___PSU_CG 2096.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_637.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_296.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_18.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_0.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_583.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_234.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Late_blight_f4aa3db8-2ad1-4abc-bb2e-4b63ed4d966a___GHLB2 Leaf 107.2.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___healthy_e623a5a9-edc8-4c81-ada4-68b3ebadfc7e___RS_HL 0082.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_4bd5f28f-beb3-4b27-b4f1-7e94b332ef93___FREC_C.Rust 9932.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Peach___Bacterial_spot_4fd4fd59-b5ad-4ff5-9c3b-3d5c74a23361___Rut._Bact.S 0767.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Tomato_Yellow_Leaf_Curl_Virus_a2737028-9b65-4d23-900d-42f9f795f465___YLCV_GCREC 2489.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_902.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_49.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_267.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___Powdery_mildew_525ea422-bb9d-47fd-b3e5-cfabf3e989fd___FREC_Pwd.M 4704.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_68ddbf53-4695-4c6a-b575-cc03097d46c1___RS_GLSp 4648.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_239.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_468.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_776.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_98a11218-40d3-4c27-afda-abf73e371f01___Crnl_L.Mold 9055.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_883.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_38.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Septoria_leaf_spot_afc72d10-1f6f-4e76-9c71-b1dccf0022f3___Matt.S_CG 6283.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_1d46d97c-17ae-41e2-9ac3-6a984804760e___JR_B.Spot 8825.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_152.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Blueberry___healthy_0af69fdc-fc5f-44ac-bb75-0939611516f6___RS_HL 0323.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_143.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_244.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_282.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Soybean___healthy_c132a970-158f-4077-9ec3-a92c8878ad43___RS_HL 3664.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Grape___Esca_(Black_Measles)_c1d3b9c2-7c7c-4f9e-8cd1-d355e8d1363a___FAM_B.Msls 3834.JPG,1,LEAF
+"ml\data\leaf_detection\raw\leaf\Pepper,_bell___Bacterial_spot_cfab201f-027a-4225-a066-cd7c784e7f02___JR_B.Spot 8947.JPG",1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_525.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_892.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_784.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Strawberry___healthy_b5bafd06-def2-4fe9-9b04-05a49bfae9b3___RS_HL 4695.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_765.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Early_blight_9c77f930-5d28-4b1f-8274-30c2c2dc82fb___RS_Early.B 8347.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Cherry_(including_sour)___healthy_0a273dc4-db45-4936-aee3-59919e1df44f___JR_HL 9805.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Raspberry___healthy_67e543d3-ae80-4e75-8d3b-67cb1d509b29___Mary_HL 6378.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Potato___Late_blight_d6fd274a-f184-482f-8043-b2fff10644ee___RS_LB 3962.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_591.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_d7fea35f-d06e-4791-9028-d032946a4bcf___Crnl_L.Mold 8666.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Tomato___Leaf_Mold_b8fc0a5c-ffce-488e-ae68-f4a268f8817b___Crnl_L.Mold 9157.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Cedar_apple_rust_c5912efe-a2cc-4203-bc9c-bdc58adcf6a3___FREC_C.Rust 9821.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_741.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_442.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_6fb62aa7-c3d4-457a-b95d-a8b3102cccd8___FREC_Scab 3005.JPG,1,LEAF
+ml\data\leaf_detection\raw\leaf\Apple___Apple_scab_ef359032-085f-44ba-a63d-493a1724eca4___FREC_Scab 3202.JPG,1,LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_60.jpg,0,NON_LEAF
+ml\data\leaf_detection\raw\non_leaf\picsum_231.jpg,0,NON_LEAF

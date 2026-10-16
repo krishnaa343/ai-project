@@ -1,0 +1,12 @@
+{
+  "name": "crop-disease-detection-framework",
+  "version": "1.0.0",
+  "description": "AI-Based Intelligent Crop Disease Detection Framework for Agriculture",
+  "private": true,
+  "scripts": {
+    "dev": "node start.js",
+    "start": "node start.js",
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "cd backend && .\\venv\\Scripts\\python.exe run.py"
+  }
+}

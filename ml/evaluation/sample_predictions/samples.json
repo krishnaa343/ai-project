@@ -1,0 +1,86 @@
+[
+  {
+    "image_path": "ml/data/raw/plantvillage/Potato___Late_blight/031672c9-bf0a-46bf-8b52-d7cdc067612e___RS_LB 5019.JPG",
+    "actual_class": "Potato___Late_blight",
+    "predicted_class": "Potato___Late_blight",
+    "confidence_pct": 99.98,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Apple___healthy/491f5957-ed75-4198-b988-4f0c834cd4ec___RS_HL 6043.JPG",
+    "actual_class": "Apple___healthy",
+    "predicted_class": "Apple___healthy",
+    "confidence_pct": 99.5,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Potato___Early_blight/a3fe02f0-6d49-4e9a-ba9a-ac26e8b65ca9___RS_Early.B 7560.JPG",
+    "actual_class": "Potato___Early_blight",
+    "predicted_class": "Potato___Early_blight",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Early_blight/f26a0950-0a68-4850-8945-a8aca58da4fa___RS_Erly.B 7505.JPG",
+    "actual_class": "Tomato___Early_blight",
+    "predicted_class": "Tomato___Early_blight",
+    "confidence_pct": 96.55,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Corn_(maize)___Common_rust_/RS_Rust 2241.JPG",
+    "actual_class": "Corn_(maize)___Common_rust_",
+    "predicted_class": "Corn_(maize)___Common_rust_",
+    "confidence_pct": 99.99,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Corn_(maize)___Common_rust_/RS_Rust 2694.JPG",
+    "actual_class": "Corn_(maize)___Common_rust_",
+    "predicted_class": "Corn_(maize)___Common_rust_",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/8b3de207-e6ff-4ac5-8480-f6230bd6b385___RS_Late.B 6506.JPG",
+    "actual_class": "Tomato___Late_blight",
+    "predicted_class": "Potato___Late_blight",
+    "confidence_pct": 69.64,
+    "correct": false
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/4f12205c-0035-48ed-b6b0-56f347fe2ab0___RS_Late.B 5085.JPG",
+    "actual_class": "Tomato___Late_blight",
+    "predicted_class": "Potato___Late_blight",
+    "confidence_pct": 55.71,
+    "correct": false
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Potato___Late_blight/9bdce182-987e-4996-8cc8-34694b4e24e9___RS_LB 2837.JPG",
+    "actual_class": "Potato___Late_blight",
+    "predicted_class": "Potato___healthy",
+    "confidence_pct": 80.62,
+    "correct": false
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/1d6d043a-9df9-49ec-9b0f-e40a8e7f409f___RS_Late.B 5287.JPG",
+    "actual_class": "Tomato___Late_blight",
+    "predicted_class": "Potato___Late_blight",
+    "confidence_pct": 42.08,
+    "correct": false
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/23c5c930-6830-46c6-8353-616c0b34ae12___RS_Late.B 4947.JPG",
+    "actual_class": "Tomato___Late_blight",
+    "predicted_class": "Tomato___Early_blight",
+    "confidence_pct": 69.18,
+    "correct": false
+  },
+  {
+    "image_path": "ml/data/raw/plantvillage/Tomato___Late_blight/8c36f3d7-3aee-4341-8319-449e3f5e6f79___RS_Late.B 5596.JPG",
+    "actual_class": "Tomato___Late_blight",
+    "predicted_class": "Tomato___Early_blight",
+    "confidence_pct": 49.0,
+    "correct": false
+  }
+]

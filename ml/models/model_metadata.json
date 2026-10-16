@@ -1,0 +1,54 @@
+{
+  "model_name": "MobileNetV2",
+  "architecture_summary": {
+    "base_model": "MobileNetV2 (ImageNet weights)",
+    "pooling": "GlobalAveragePooling2D",
+    "dropout": 0.3,
+    "classification_head": "Dense(13, softmax)"
+  },
+  "input_size": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 13,
+  "class_to_idx": {
+    "Apple___Apple_scab": 0,
+    "Apple___Black_rot": 1,
+    "Apple___healthy": 2,
+    "Corn_(maize)___Common_rust_": 3,
+    "Corn_(maize)___Northern_Leaf_Blight": 4,
+    "Corn_(maize)___healthy": 5,
+    "Potato___Early_blight": 6,
+    "Potato___Late_blight": 7,
+    "Potato___healthy": 8,
+    "Tomato___Bacterial_spot": 9,
+    "Tomato___Early_blight": 10,
+    "Tomato___Late_blight": 11,
+    "Tomato___healthy": 12
+  },
+  "preprocessing": "RGB, resize 224x224, normalize [0,1]",
+  "training_seed": 42,
+  "batch_size": 32,
+  "stage1_epochs_run": 5,
+  "stage1_lr": 0.001,
+  "stage2_epochs_run": 4,
+  "stage2_lr": 1e-05,
+  "stage2_unfreeze_from": 100,
+  "optimizer": "Adam",
+  "loss_function": "sparse_categorical_crossentropy",
+  "class_weights_used": true,
+  "augmentation": [
+    "random_horizontal_flip",
+    "random_brightness(+-10%)",
+    "random_contrast(+-10%)"
+  ],
+  "stage1_best_val_accuracy": 0.964,
+  "stage1_best_val_loss": 0.1098,
+  "stage2_best_val_accuracy": 0.963309,
+  "stage2_best_val_loss": 0.100062,
+  "training_duration_minutes": 7.4,
+  "trained_at": "2026-09-28T23:58:09.480881",
+  "best_model_path": "C:\\Users\\agarw\\OneDrive\\Desktop\\ai project\\ml\\models\\best_model.keras",
+  "final_model_path": "C:\\Users\\agarw\\OneDrive\\Desktop\\ai project\\ml\\models\\final_model.keras"
+}

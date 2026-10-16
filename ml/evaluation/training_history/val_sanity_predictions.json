@@ -1,0 +1,72 @@
+[
+  {
+    "sample_idx": 1,
+    "actual": "Tomato___Early_blight",
+    "predicted": "Tomato___Early_blight",
+    "confidence_pct": 66.35,
+    "correct": true
+  },
+  {
+    "sample_idx": 2,
+    "actual": "Apple___healthy",
+    "predicted": "Apple___healthy",
+    "confidence_pct": 99.68,
+    "correct": true
+  },
+  {
+    "sample_idx": 3,
+    "actual": "Apple___healthy",
+    "predicted": "Apple___healthy",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "sample_idx": 4,
+    "actual": "Corn_(maize)___healthy",
+    "predicted": "Corn_(maize)___healthy",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "sample_idx": 5,
+    "actual": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted": "Corn_(maize)___Northern_Leaf_Blight",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "sample_idx": 6,
+    "actual": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted": "Corn_(maize)___Northern_Leaf_Blight",
+    "confidence_pct": 99.76,
+    "correct": true
+  },
+  {
+    "sample_idx": 7,
+    "actual": "Apple___healthy",
+    "predicted": "Apple___healthy",
+    "confidence_pct": 100.0,
+    "correct": true
+  },
+  {
+    "sample_idx": 8,
+    "actual": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted": "Corn_(maize)___Northern_Leaf_Blight",
+    "confidence_pct": 95.5,
+    "correct": true
+  },
+  {
+    "sample_idx": 9,
+    "actual": "Potato___Late_blight",
+    "predicted": "Potato___Late_blight",
+    "confidence_pct": 98.65,
+    "correct": true
+  },
+  {
+    "sample_idx": 10,
+    "actual": "Tomato___Bacterial_spot",
+    "predicted": "Tomato___Bacterial_spot",
+    "confidence_pct": 77.45,
+    "correct": true
+  }
+]

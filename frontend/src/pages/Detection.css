@@ -1,0 +1,134 @@
+.detection-page {
+  padding-top: var(--space-8);
+  padding-bottom: var(--space-12);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  max-width: 760px;
+}
+
+.detection-header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.detection-title {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.detection-subtitle {
+  font-size: var(--font-size-base);
+  color: var(--text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.detection-banner {
+  width: 100%;
+}
+
+.detection-card {
+  padding: var(--space-8);
+  border-radius: var(--radius-2xl);
+  border: 1px solid var(--border-color);
+  background: var(--surface-card);
+  box-shadow: var(--shadow-md);
+}
+
+.detection-stage {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  align-items: center;
+  width: 100%;
+}
+
+.detection-controls {
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  align-items: center;
+}
+
+.checkbox-control {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  cursor: pointer;
+  user-select: none;
+  background: var(--surface-hover);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  width: 100%;
+}
+
+.checkbox-control input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--primary-600);
+  cursor: pointer;
+}
+
+.detection-buttons {
+  display: flex;
+  gap: var(--space-3);
+  width: 100%;
+  justify-content: space-between;
+}
+
+.detection-buttons .btn {
+  flex: 1;
+}
+
+/* Tips Card */
+.detection-tips {
+  padding: var(--space-6);
+  background: #fdfdfc;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xl);
+}
+
+.detection-tips__title {
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 var(--space-3) 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.detection-tips__list {
+  margin: 0;
+  padding-left: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.detection-tips__list strong {
+  color: var(--text-primary);
+}
+
+@media (max-width: 640px) {
+  .detection-card {
+    padding: var(--space-5) var(--space-4);
+  }
+  .detection-buttons {
+    flex-direction: column-reverse;
+  }
+}

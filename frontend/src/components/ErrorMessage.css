@@ -1,0 +1,66 @@
+/* ErrorMessage */
+.error-msg {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+  border: 1px solid;
+}
+
+.error-msg--error {
+  background: var(--clr-error-bg);
+  border-color: #fca5a5;
+  color: #991b1b;
+}
+
+.error-msg--warning {
+  background: var(--clr-warning-bg);
+  border-color: #fcd34d;
+  color: #92400e;
+}
+
+.error-msg--info {
+  background: var(--clr-info-bg);
+  border-color: #7dd3fc;
+  color: #075985;
+}
+
+.error-msg__icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.error-msg__body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.error-msg__title {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  display: block;
+}
+
+.error-msg__text {
+  font-size: var(--font-size-sm);
+  line-height: 1.5;
+}
+
+.error-msg__dismiss {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+  opacity: 0.6;
+  font-size: var(--font-size-sm);
+  padding: 2px 4px;
+  border-radius: var(--radius-sm);
+  transition: opacity var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.error-msg__dismiss:hover { opacity: 1; }

@@ -1,0 +1,186 @@
+.prediction-card {
+  padding: var(--space-6);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  background: var(--surface-card);
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.prediction-card__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.prediction-card__crop-tag {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.prediction-card__leaf-icon {
+  font-size: 1.25rem;
+}
+
+.prediction-card__crop-name {
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.prediction-card__status-tag {
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.prediction-card__status-tag.status--healthy {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+.prediction-card__status-tag.status--diseased {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.prediction-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.prediction-card__diagnosis {
+  font-size: clamp(1.4rem, 2.5vw, 1.85rem);
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.prediction-card__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  font-size: var(--font-size-xs);
+  color: var(--text-tertiary);
+}
+
+.prediction-card__raw-name code {
+  font-family: monospace;
+  background: var(--surface-hover);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+}
+
+.prediction-card__latency {
+  color: var(--primary-700);
+  font-weight: 500;
+}
+
+.prediction-card__low-confidence-warning {
+  display: flex;
+  gap: var(--space-3);
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  background-color: #fffbeb;
+  border: 1px solid #fde68a;
+  color: #92400e;
+  font-size: var(--font-size-sm);
+  line-height: 1.5;
+}
+
+.prediction-card__low-confidence-warning p {
+  margin: var(--space-1) 0 0 0;
+  font-size: var(--font-size-xs);
+  color: #b45309;
+}
+
+.prediction-card__distribution {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border-color);
+}
+
+.prediction-card__distribution-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.prediction-card__section-title {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0;
+}
+
+.prediction-card__bars {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.prob-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.prob-item__labels {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: var(--font-size-xs);
+}
+
+.prob-item__name {
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.prob-item__star {
+  color: var(--accent-500);
+}
+
+.prob-item__val {
+  font-weight: 700;
+  color: var(--text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.prob-item__track {
+  width: 100%;
+  height: 8px;
+  background-color: var(--surface-hover);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.prob-item__fill {
+  height: 100%;
+  background-color: var(--primary-300);
+  border-radius: var(--radius-full);
+  transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.prob-item__fill--top {
+  background: linear-gradient(90deg, var(--primary-500), var(--primary-600));
+}

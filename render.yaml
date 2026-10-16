@@ -1,0 +1,38 @@
+# ==============================================================================
+# Render Deployment Configuration
+# Project: AI-Based Intelligent Crop Disease Detection Framework
+#
+# This file configures the Flask backend service on Render.
+# The ML model (best_model.keras) must be committed to the repository OR
+# provided via a Render disk/persistent volume (see deployment docs).
+#
+# Environment variables (set in Render dashboard — NOT here):
+#   FLASK_ENV           = production
+#   FLASK_DEBUG         = 0
+#   SECRET_KEY          = <strong-random-key>
+#   ALLOWED_ORIGINS     = https://your-vercel-app.vercel.app
+#   MYSQL_HOST          = <railway-or-planetscale-host>
+#   MYSQL_PORT          = 3306
+#   MYSQL_DATABASE      = crop_disease_detection
+#   MYSQL_USER          = <db-user>
+#   MYSQL_PASSWORD      = <db-password>
+# ==============================================================================
+
+services:
+  - type: web
+    name: cropscan-ai-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 120 wsgi:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: FLASK_DEBUG
+        value: "0"
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      # The following must be set manually in the Render dashboard:
+      # SECRET_KEY, ALLOWED_ORIGINS, MYSQL_HOST, MYSQL_PORT,
+      # MYSQL_DATABASE, MYSQL_USER, MYSQL_PASSWORD
+    healthCheckPath: /api/health

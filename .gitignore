@@ -1,0 +1,74 @@
+# ==============================================================================
+# Git Ignore Configuration
+# AI-Based Intelligent Crop Disease Detection Framework
+# ==============================================================================
+
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Node.js & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+
+# Environment Variables & Credentials (Strictly Never Commit)
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+frontend/.env.production
+*.pem
+*.key
+
+# Machine Learning Artifacts & Heavy Data
+ml/data/raw/*
+!ml/data/raw/.gitkeep
+ml/data/processed/*
+!ml/data/processed/.gitkeep
+ml/data/splits/*
+!ml/data/splits/.gitkeep
+ml/data/leaf_detection/raw/*
+!ml/data/leaf_detection/raw/.gitkeep
+ml/models/*.h5
+ml/models/*.keras
+!ml/models/.gitkeep
+!ml/models/best_model.keras
+!ml/models/leaf_detector_model.keras
+!ml/models/model_metadata.json
+!ml/models/leaf_detector_metadata.json
+
+# Uploads & Runtime Artifacts
+backend/static/uploads/*
+!backend/static/uploads/.gitkeep
+
+# Generated Grad-CAM images (runtime artifacts, not source)
+backend/static/gradcam/*
+!backend/static/gradcam/.gitkeep
+
+# Deployment build artifacts
+frontend/dist/
