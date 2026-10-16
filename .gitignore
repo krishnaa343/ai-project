@@ -52,15 +52,11 @@ ml/data/processed/*
 !ml/data/processed/.gitkeep
 ml/data/splits/*
 !ml/data/splits/.gitkeep
-ml/data/leaf_detection/raw/*
-!ml/data/leaf_detection/raw/.gitkeep
 ml/models/*.h5
 ml/models/*.keras
 !ml/models/.gitkeep
 !ml/models/best_model.keras
-!ml/models/leaf_detector_model.keras
 !ml/models/model_metadata.json
-!ml/models/leaf_detector_metadata.json
 
 # Uploads & Runtime Artifacts
 backend/static/uploads/*
