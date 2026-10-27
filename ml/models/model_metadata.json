@@ -45,10 +45,10 @@
   ],
   "stage1_best_val_accuracy": 0.964,
   "stage1_best_val_loss": 0.1098,
-  "stage2_best_val_accuracy": 0.963309,
-  "stage2_best_val_loss": 0.100062,
-  "training_duration_minutes": 7.4,
-  "trained_at": "2026-09-28T23:58:09.480881",
+  "stage2_best_val_accuracy": 0.9546,
+  "stage2_best_val_loss": 0.1380,
+  "fine_tuned_for": "Real-world Apple Scab & balanced 13-class generalization",
+  "trained_at": "2026-10-27T23:23:07.000000",
   "best_model_path": "C:\\Users\\agarw\\OneDrive\\Desktop\\ai project\\ml\\models\\best_model.keras",
   "final_model_path": "C:\\Users\\agarw\\OneDrive\\Desktop\\ai project\\ml\\models\\final_model.keras"
 }

@@ -60,11 +60,6 @@
   margin-top: var(--space-4);
 }
 
-/* 3D Leaf Viewer Row — full width between prediction grid and disease info */
-.results-3d-row {
-  width: 100%;
-}
-
 /* Disease Information Row — full width below the prediction grid */
 .results-info-row {
   width: 100%;

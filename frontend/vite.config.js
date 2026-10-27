@@ -26,7 +26,5 @@ export default defineConfig({
   // ── Production build ────────────────────────────────────────────────────────
   build: {
     outDir: 'dist',
-    // Three.js legitimately exceeds the 500 kB default warning — raise limit
-    chunkSizeWarningLimit: 1000,
   },
 })

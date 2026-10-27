@@ -3,7 +3,6 @@ import { useLocation, useNavigate, Link } from 'react-router-dom';
 import PredictionCard from '../components/PredictionCard';
 import GradCamViewer from '../components/GradCamViewer';
 import DiseaseInfoPanel from '../components/DiseaseInfoPanel';
-import Leaf3DViewer from '../components/Leaf3DViewer';
 import { formatFileSize } from '../utils/validation';
 import './Results.css';
 
@@ -139,17 +138,7 @@ export default function Results() {
         )}
       </div>
 
-      {/* ── Row 2: Interactive 3D Leaf Anatomy Visualization ──────────────── */}
-      <div className="results-3d-row">
-        <Leaf3DViewer
-          crop={diseaseInfo?.crop || (prediction.predicted_class ? prediction.predicted_class.split('___')[0].replace(/_/g, ' ') : 'Crop')}
-          isHealthy={diseaseInfo?.is_healthy !== undefined ? diseaseInfo.is_healthy : (prediction.predicted_class ? prediction.predicted_class.toLowerCase().includes('healthy') : true)}
-          predictedClass={prediction.predicted_class}
-          displayName={diseaseInfo?.display_name || prediction.predicted_class}
-        />
-      </div>
-
-      {/* ── Row 3: Disease Information Panel (full-width) ─────────────────── */}
+      {/* ── Disease Information Panel (full-width) ─────────────────────────── */}
       <div className="results-info-row">
         <DiseaseInfoPanel diseaseInfo={diseaseInfo} />
       </div>
